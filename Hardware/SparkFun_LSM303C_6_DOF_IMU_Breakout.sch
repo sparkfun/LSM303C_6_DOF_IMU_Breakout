@@ -20651,7 +20651,6 @@ This is the mechanical footprint for a #4 phillips button head screw. Use the ke
 <part name="SJ4" library="SparkFun-Passives" deviceset="JUMPER-PAD-2-NO" device=""/>
 <part name="TP1" library="SparkFun-Passives" deviceset="TEST-POINT" device="TP_15TH_THRU" value="VDD_TP"/>
 <part name="STANDOFF1" library="SparkFun-Electromechanical" deviceset="STAND-OFF" device=""/>
-<part name="STANDOFF2" library="SparkFun-Electromechanical" deviceset="STAND-OFF" device=""/>
 </parts>
 <sheets>
 <sheet>
@@ -20747,8 +20746,7 @@ jumper.
 <attribute name="NAME" x="226.06" y="152.4" size="1.778" layer="95"/>
 <attribute name="VALUE" x="223.52" y="149.86" size="1.778" layer="96"/>
 </instance>
-<instance part="STANDOFF1" gate="G$1" x="236.22" y="33.02"/>
-<instance part="STANDOFF2" gate="G$1" x="236.22" y="25.4"/>
+<instance part="STANDOFF1" gate="G$1" x="236.22" y="25.4"/>
 </instances>
 <busses>
 </busses>

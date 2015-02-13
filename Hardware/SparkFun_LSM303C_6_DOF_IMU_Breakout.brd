@@ -2002,7 +2002,7 @@ design rules under a new name.</description>
 <attribute name="PROD_ID" value="CAP-00810" x="13.335" y="9.525" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="VALUE" value="0.1uF" x="13.335" y="9.525" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
-<element name="FID2" library="SparkFun" package="FIDUCIAL-1X2" value="FIDUCIAL1X2" x="6.096" y="1.016"/>
+<element name="FID2" library="SparkFun" package="FIDUCIAL-1X2" value="FIDUCIAL1X2" x="1.016" y="1.016"/>
 <element name="FID1" library="SparkFun" package="FIDUCIAL-1X2" value="FIDUCIAL1X2" x="19.558" y="24.384"/>
 <element name="U$8" library="SparkFun" package="OSHW-LOGO-S" value="OSHW-LOGOS" x="15.875" y="6.223" rot="MR0"/>
 <element name="FRAME1" library="SparkFun-Aesthetics" package="CREATIVE_COMMONS" value="" x="-20.955" y="-7.747">
@@ -2043,7 +2043,6 @@ design rules under a new name.</description>
 <element name="SJ4" library="SparkFun-Passives" package="PAD-JUMPER-2-NO_NO_SILK" value="JUMPER-PAD-2-NO" x="22.098" y="8.001" rot="R270"/>
 <element name="TP1" library="SparkFun-Passives" package="TP_15TH" value="VDD_TP" x="13.208" y="12.7"/>
 <element name="STANDOFF1" library="SparkFun-Electromechanical" package="STAND-OFF" value="STAND-OFF" x="2.54" y="22.86"/>
-<element name="STANDOFF2" library="SparkFun-Electromechanical" package="STAND-OFF" value="STAND-OFF" x="2.54" y="2.54"/>
 </elements>
 <signals>
 <signal name="GND">
@@ -2071,7 +2070,7 @@ design rules under a new name.</description>
 <via x="20.828" y="15.24" extent="1-16" drill="0.508"/>
 <via x="20.828" y="20.32" extent="1-16" drill="0.508"/>
 <via x="21.082" y="5.334" extent="1-16" drill="0.508"/>
-<via x="4.826" y="3.937" extent="1-16" drill="0.508"/>
+<via x="2.794" y="2.413" extent="1-16" drill="0.508"/>
 <via x="21.844" y="2.54" extent="1-16" drill="0.508"/>
 <contactref element="R3" pad="2"/>
 <contactref element="JP1" pad="1"/>
@@ -2096,7 +2095,6 @@ design rules under a new name.</description>
 <wire x1="20.828" y1="10.414" x2="20.828" y2="7.874" width="0.254" layer="1"/>
 <wire x1="20.828" y1="7.874" x2="20.574" y2="7.62" width="0.254" layer="1"/>
 <via x="4.064" y="12.192" extent="1-16" drill="0.508"/>
-<wire x1="21.844" y1="2.54" x2="21.082" y2="5.334" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="VCC">
 <contactref element="R1" pad="1"/>
@@ -2456,62 +2454,62 @@ design rules under a new name.</description>
 <approved hash="5,16,e95ae5be2dcad3d6"/>
 <approved hash="5,16,e91ae98621d2d3b6"/>
 <approved hash="3,1,731d7b1d7ce274e2"/>
-<approved hash="5,1,0af154e2f8e2a304"/>
 <approved hash="5,1,21d87a28d628882d"/>
+<approved hash="5,1,0af154e2f8e2a304"/>
 <approved hash="5,1,19635374ce26075d"/>
 <approved hash="5,1,244649d8d4bfafcc"/>
 <approved hash="5,1,0860566dfa6da195"/>
 <approved hash="5,1,99ee66ee98b86604"/>
 <approved hash="5,1,24fa7f0ed30e8d0f"/>
 <approved hash="5,1,913b6f3b91056f51"/>
-<approved hash="5,1,4a7aa29067c410cd"/>
-<approved hash="5,1,b896212f7055981e"/>
-<approved hash="5,1,21db15f7d3fca126"/>
-<approved hash="5,1,812296a24f8bf485"/>
-<approved hash="5,1,b397b1b7b3f6b050"/>
-<approved hash="5,1,4a78a541602b10f1"/>
-<approved hash="5,1,ff18861f8136064f"/>
 <approved hash="5,1,4a7ea7b662fa10d1"/>
 <approved hash="5,1,6da995d847ca6ba8"/>
 <approved hash="5,1,26201df0db85a5f7"/>
-<approved hash="5,1,b2d1b035b3f6b2b0"/>
 <approved hash="5,1,7c2dd6af72b0bfdd"/>
+<approved hash="5,1,b2d1b035b3f6b2b0"/>
+<approved hash="5,1,4a7aa29067c410cd"/>
+<approved hash="5,1,b896212f7055981e"/>
+<approved hash="5,1,21db15f7d3fca126"/>
+<approved hash="5,1,b397b1b7b3f6b050"/>
+<approved hash="5,1,812296a24f8bf485"/>
+<approved hash="5,1,4a78a541602b10f1"/>
 <approved hash="5,1,23487cbe154b8abc"/>
 <approved hash="5,1,0623811a8663bf64"/>
-<approved hash="5,1,37b163a446e0e177"/>
-<approved hash="5,1,db0621badfec24ec"/>
-<approved hash="5,1,2e134abfd2b1592e"/>
+<approved hash="5,1,ff18861f8136064f"/>
 <approved hash="5,1,38d5647b4e53ee7b"/>
 <approved hash="5,1,d2532807d6392c39"/>
 <approved hash="5,1,ad6e24fabcffd854"/>
-<approved hash="5,1,6554eeff9bfafd6e"/>
+<approved hash="5,1,37b163a446e0e177"/>
+<approved hash="5,1,db0621badfec24ec"/>
+<approved hash="5,1,2e134abfd2b1592e"/>
 <approved hash="5,1,623990396e079c53"/>
-<approved hash="5,1,6aec99ec67ba9506"/>
+<approved hash="5,1,6554eeff9bfafd6e"/>
 <approved hash="5,1,0b2e6db11abf9313"/>
+<approved hash="5,1,6aec99ec67ba9506"/>
+<approved hash="5,1,d9cf835d03561f32"/>
+<approved hash="5,1,4354b900473ebd3e"/>
 <approved hash="5,1,dd1e8b240b5118c9"/>
 <approved hash="5,1,19642263275a6223"/>
 <approved hash="5,1,4a01b0bd4eebb5eb"/>
 <approved hash="5,1,4a01b0bd4eebb5eb"/>
-<approved hash="5,1,d9cf835d03561f32"/>
-<approved hash="5,1,4354b900473ebd3e"/>
-<approved hash="5,1,7833969794f679f0"/>
 <approved hash="5,1,79b197d1961679f0"/>
+<approved hash="5,1,7833969794f679f0"/>
 <approved hash="5,1,b2d23c423cb85b3c"/>
 <approved hash="5,1,4fa072df002e1f24"/>
-<approved hash="5,1,b07ea7ad2de2bfcd"/>
-<approved hash="5,1,f2c30b31a4c466c1"/>
 <approved hash="5,1,b07aa28b28dcbfd1"/>
 <approved hash="5,1,558e8c2fb255e406"/>
 <approved hash="5,1,e3ae219f8e6a77ac"/>
+<approved hash="5,1,b07ea7ad2de2bfcd"/>
+<approved hash="5,1,f2c30b31a4c466c1"/>
 <approved hash="5,1,b078a55a2f33bfed"/>
-<approved hash="5,1,fc5109a6a65227a5"/>
-<approved hash="5,1,e68c24818b74728e"/>
-<approved hash="5,1,f05209a6a6536450"/>
-<approved hash="5,1,a57824818b757e8c"/>
 <approved hash="5,1,f7e10e17a1e263e3"/>
 <approved hash="5,1,e41d260e89fb701f"/>
-<approved hash="5,16,e95ce3352b49d3d8"/>
+<approved hash="5,1,e68c24818b74728e"/>
+<approved hash="5,1,a57824818b757e8c"/>
+<approved hash="5,1,fc5109a6a65227a5"/>
+<approved hash="5,1,f05209a6a6536450"/>
 <approved hash="5,16,e95ce73d2f51d3c8"/>
+<approved hash="5,16,e95ce3352b49d3d8"/>
 </errors>
 </board>
 </drawing>
