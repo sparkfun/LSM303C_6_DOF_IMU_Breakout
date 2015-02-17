@@ -1,7 +1,7 @@
-# SparkFun LMC303C 6 DOF IMU Breakout
+# SparkFun LSM303C 6 DOF IMU Breakout
 ========================================
 
-[![LMC303C Breakout](URL for picture of part)
+[![LSM303C Breakout](URL for picture of part)
 *Part Name (SKU)*](URL for product on Sparkfun.com)
 
 The LSM303C is a triple axis accelerometer and triple axis magnetic sensor, providing 6D of orientation detection.
