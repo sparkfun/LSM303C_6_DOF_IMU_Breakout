@@ -20605,13 +20605,19 @@ This is the mechanical footprint for a #4 phillips button head screw. Use the ke
 <part name="FRAME1" library="SparkFun-Aesthetics" deviceset="FRAME-LETTER" device="">
 <attribute name="DESIGNER" value="Brent Wilkins"/>
 </part>
-<part name="U1" library="SparkFun-DigitalIC" deviceset="LSM303C" device=""/>
+<part name="U1" library="SparkFun-DigitalIC" deviceset="LSM303C" device="">
+<attribute name="PROD_ID" value="IC-12557"/>
+</part>
 <part name="C4" library="SparkFun-Capacitors" deviceset="0.1UF-25V(+80/-20%)(0603)" device="" value="0.1uF"/>
 <part name="GND15" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
 <part name="GND13" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
 <part name="Q1" library="SparkFun-DiscreteSemi" deviceset="MOSFET-PCHANNEL" device="DMG2307L" value="2.5A/30V"/>
-<part name="R1" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="100k"/>
-<part name="U2" library="SparkFun-DigitalIC" deviceset="LM3880/-QI" device="" value="LM3880"/>
+<part name="R1" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="100k">
+<attribute name="PROD_ID" value="RES-07828"/>
+</part>
+<part name="U2" library="SparkFun-DigitalIC" deviceset="LM3880/-QI" device="" value="LM3880">
+<attribute name="PROD_ID" value="IC-12558"/>
+</part>
 <part name="GND14" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
 <part name="C3" library="SparkFun-Capacitors" deviceset="0.1UF-25V(+80/-20%)(0603)" device="" value="0.1uF"/>
 <part name="GND16" library="SparkFun" deviceset="GND" device=""/>
@@ -20688,14 +20694,18 @@ configuration.  Cut them to use SPI</text>
 <instance part="U$8" gate="G$1" x="12.7" y="12.7"/>
 <instance part="FRAME1" gate="G$1" x="0" y="0"/>
 <instance part="FRAME1" gate="V" x="147.32" y="0"/>
-<instance part="U1" gate="G$1" x="60.96" y="147.32"/>
+<instance part="U1" gate="G$1" x="60.96" y="147.32">
+<attribute name="PROD_ID" x="60.96" y="147.32" size="1.778" layer="96" display="off"/>
+</instance>
 <instance part="C4" gate="G$1" x="40.64" y="129.54" rot="R180"/>
 <instance part="GND15" gate="1" x="40.64" y="119.38"/>
 <instance part="GND13" gate="1" x="81.28" y="129.54"/>
 <instance part="Q1" gate="G$1" x="213.36" y="157.48" smashed="yes" rot="MR90">
 <attribute name="NAME" x="215.9" y="152.4" size="1.778" layer="95" rot="MR180"/>
 </instance>
-<instance part="R1" gate="G$1" x="195.58" y="149.86" rot="R270"/>
+<instance part="R1" gate="G$1" x="195.58" y="149.86" rot="R270">
+<attribute name="PROD_ID" x="195.58" y="149.86" size="1.778" layer="96" rot="R270" display="off"/>
+</instance>
 <instance part="U2" gate="G$1" x="182.88" y="137.16" smashed="yes">
 <attribute name="NAME" x="175.26" y="127" size="1.778" layer="95"/>
 <attribute name="VALUE" x="187.96" y="127" size="1.778" layer="96"/>
