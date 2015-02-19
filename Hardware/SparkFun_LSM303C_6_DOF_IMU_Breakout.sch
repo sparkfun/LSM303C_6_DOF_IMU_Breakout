@@ -20675,6 +20675,7 @@ jumper.
 </text>
 <text x="35.56" y="10.16" size="1.778" layer="97" font="vector">Jumpers are defaulted to I2C
 configuration.  Cut them to use SPI</text>
+<text x="134.62" y="157.48" size="1.9304" layer="97">VCC = 2.65V to 4.3V</text>
 </plain>
 <instances>
 <instance part="R2" gate="G$1" x="38.1" y="58.42" rot="R90">
