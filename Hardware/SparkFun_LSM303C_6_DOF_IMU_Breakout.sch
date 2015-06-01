@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="7.2.0">
+<eagle version="7.3.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="yes"/>
@@ -20380,7 +20380,7 @@ This is the mechanical footprint for a #4 phillips button head screw. Use the ke
 <part name="GND15" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
 <part name="GND13" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
 <part name="R1" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="68">
-<attribute name="PROD_ID" value="RES-07828"/>
+<attribute name="PROD_ID" value="RES-07860"/>
 </part>
 <part name="U2" library="SparkFun-DigitalIC" deviceset="LM3880/-QI" device="" value="LM3880">
 <attribute name="PROD_ID" value="IC-12558"/>
