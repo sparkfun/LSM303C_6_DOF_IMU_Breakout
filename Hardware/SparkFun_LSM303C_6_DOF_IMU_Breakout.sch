@@ -4393,15 +4393,15 @@ We've spent an enormous amount of time creating and checking these footprints an
 You are welcome to use this library for commercial purposes. For attribution, we ask that when you begin to sell your device using our footprint, you email us with a link to the product being sold. We want bragging rights that we helped (in a very small part) to create your 8th world wonder. We would like the opportunity to feature your device on our homepage.</description>
 <packages>
 <package name="CREATIVE_COMMONS">
-<text x="-20.32" y="5.08" size="1.778" layer="51">Released under the Creative Commons Attribution Share-Alike 4.0 License</text>
-<text x="0" y="2.54" size="1.778" layer="51"> https://creativecommons.org/licenses/by-sa/4.0/</text>
-<text x="11.43" y="0" size="1.778" layer="51">Designed by:</text>
+<text x="-20.32" y="5.08" size="1.778" layer="51" font="vector">Released under the Creative Commons Attribution Share-Alike 4.0 License</text>
+<text x="0" y="2.54" size="1.778" layer="51" font="vector"> https://creativecommons.org/licenses/by-sa/4.0/</text>
+<text x="11.43" y="0" size="1.778" layer="51" font="vector">Designed by:</text>
 </package>
 <package name="DUMMY">
 <description>NOTHING HERE!!! For when you want a symbol with no package as an option against symbols with a package.</description>
 </package>
 <package name="SFE_LOGO_NAME_.1">
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="0.87" y="1.8"/>
 <vertex x="0.88" y="1.74"/>
 <vertex x="0.9" y="1.7"/>
@@ -4515,7 +4515,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="0.78" y="1.8"/>
 <vertex x="0.82" y="1.8"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="2.98" y="1.8"/>
 <vertex x="3" y="1.88"/>
 <vertex x="3.01" y="1.96"/>
@@ -4525,7 +4525,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="3.37" y="1.76"/>
 <vertex x="3.32" y="1.64"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="3.32" y="1.64"/>
 <vertex x="3.25" y="1.53"/>
 <vertex x="3.16" y="1.44"/>
@@ -4627,7 +4627,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="2.94" y="1.74"/>
 <vertex x="2.98" y="1.8"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="3.99" y="2.15"/>
 <vertex x="4.08" y="2.17"/>
 <vertex x="4.17" y="2.18"/>
@@ -4644,7 +4644,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="4.09" y="1.94"/>
 <vertex x="4.07" y="1.94"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="4.07" y="1.94"/>
 <vertex x="4.05" y="1.93"/>
 <vertex x="4.03" y="1.92"/>
@@ -4904,7 +4904,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="3.91" y="2.14"/>
 <vertex x="3.99" y="2.15"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="5.06" y="2.69"/>
 <vertex x="5.11" y="2.7"/>
 <vertex x="5.16" y="2.71"/>
@@ -4987,7 +4987,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="5.06" y="2.35"/>
 <vertex x="5.06" y="2.52"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="6.13" y="3.08"/>
 <vertex x="6.51" y="3.3"/>
 <vertex x="6.51" y="2.25"/>
@@ -5001,7 +5001,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="6.51" y="1.34"/>
 <vertex x="6.13" y="1.34"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="7.76" y="2.5"/>
 <vertex x="7.71" y="2.5"/>
 <vertex x="7.66" y="2.5"/>
@@ -5131,7 +5131,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="7.76" y="2.21"/>
 <vertex x="7.76" y="2.35"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="9.85" y="1.34"/>
 <vertex x="9.8" y="1.34"/>
 <vertex x="9.76" y="1.34"/>
@@ -5229,7 +5229,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="9.85" y="1.7"/>
 <vertex x="9.85" y="1.52"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="10.07" y="2.76"/>
 <vertex x="10.11" y="2.76"/>
 <vertex x="10.16" y="2.76"/>
@@ -5329,8 +5329,202 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="10.06" y="2.58"/>
 </polygon>
 </package>
+<package name="SFE_LOGO_FLAME_COPPER_EXPOSED_.1">
+<polygon width="0.01" layer="1">
+<vertex x="1.7" y="2.49"/>
+<vertex x="1.7" y="2.4"/>
+<vertex x="1.69" y="2.37"/>
+<vertex x="1.68" y="2.35"/>
+<vertex x="1.65" y="2.32"/>
+<vertex x="1.62" y="2.31"/>
+<vertex x="1.59" y="2.31"/>
+<vertex x="1.51" y="2.33"/>
+<vertex x="1.47" y="2.35"/>
+<vertex x="1.44" y="2.37"/>
+<vertex x="1.4" y="2.4"/>
+<vertex x="1.34" y="2.46"/>
+<vertex x="1.3" y="2.52"/>
+<vertex x="1.29" y="2.56"/>
+<vertex x="1.29" y="2.62"/>
+<vertex x="1.3" y="2.65"/>
+<vertex x="1.31" y="2.67"/>
+<vertex x="1.33" y="2.7"/>
+<vertex x="1.37" y="2.73"/>
+<vertex x="1.41" y="2.75"/>
+<vertex x="1.46" y="2.76"/>
+<vertex x="1.5" y="2.77"/>
+<vertex x="1.56" y="2.77"/>
+<vertex x="1.58" y="2.76"/>
+<vertex x="1.59" y="2.76"/>
+<vertex x="1.58" y="2.77"/>
+<vertex x="1.54" y="2.8"/>
+<vertex x="1.4" y="2.87"/>
+<vertex x="1.31" y="2.89"/>
+<vertex x="1.21" y="2.89"/>
+<vertex x="1.1" y="2.87"/>
+<vertex x="0.99" y="2.81"/>
+<vertex x="0.9" y="2.74"/>
+<vertex x="0.85" y="2.66"/>
+<vertex x="0.82" y="2.57"/>
+<vertex x="0.82" y="2.49"/>
+<vertex x="0.84" y="2.4"/>
+<vertex x="0.89" y="2.31"/>
+<vertex x="0.96" y="2.23"/>
+<vertex x="1.04" y="2.14"/>
+<vertex x="1.11" y="2.07"/>
+<vertex x="1.14" y="1.99"/>
+<vertex x="1.14" y="1.92"/>
+<vertex x="1.12" y="1.86"/>
+<vertex x="1.08" y="1.81"/>
+<vertex x="1.02" y="1.77"/>
+<vertex x="0.94" y="1.75"/>
+<vertex x="0.86" y="1.75"/>
+<vertex x="0.81" y="1.76"/>
+<vertex x="0.76" y="1.78"/>
+<vertex x="0.7" y="1.84"/>
+<vertex x="0.68" y="1.87"/>
+<vertex x="0.67" y="1.9"/>
+<vertex x="0.67" y="1.94"/>
+<vertex x="0.68" y="1.97"/>
+<vertex x="0.74" y="2.03"/>
+<vertex x="0.77" y="2.04"/>
+<vertex x="0.81" y="2.06"/>
+<vertex x="0.82" y="2.07"/>
+<vertex x="0.78" y="2.09"/>
+<vertex x="0.66" y="2.09"/>
+<vertex x="0.6" y="2.08"/>
+<vertex x="0.55" y="2.07"/>
+<vertex x="0.5" y="2.05"/>
+<vertex x="0.46" y="2.02"/>
+<vertex x="0.41" y="1.98"/>
+<vertex x="0.35" y="1.88"/>
+<vertex x="0.33" y="1.81"/>
+<vertex x="0.32" y="1.73"/>
+<vertex x="0.32" y="0.36"/>
+<vertex x="0.37" y="0.41"/>
+<vertex x="0.4" y="0.46"/>
+<vertex x="0.45" y="0.51"/>
+<vertex x="0.5" y="0.57"/>
+<vertex x="0.62" y="0.69"/>
+<vertex x="0.74" y="0.83"/>
+<vertex x="0.84" y="0.93"/>
+<vertex x="0.94" y="0.99"/>
+<vertex x="1" y="1"/>
+<vertex x="1.19" y="1"/>
+<vertex x="1.31" y="1.02"/>
+<vertex x="1.42" y="1.05"/>
+<vertex x="1.52" y="1.09"/>
+<vertex x="1.62" y="1.15"/>
+<vertex x="1.7" y="1.22"/>
+<vertex x="1.78" y="1.3"/>
+<vertex x="1.85" y="1.39"/>
+<vertex x="1.95" y="1.57"/>
+<vertex x="2" y="1.76"/>
+<vertex x="2.01" y="1.93"/>
+<vertex x="1.98" y="2.09"/>
+<vertex x="1.93" y="2.24"/>
+<vertex x="1.86" y="2.35"/>
+<vertex x="1.78" y="2.44"/>
+</polygon>
+<polygon width="0.01" layer="29">
+<vertex x="1.7" y="2.49"/>
+<vertex x="1.7" y="2.4"/>
+<vertex x="1.69" y="2.37"/>
+<vertex x="1.68" y="2.35"/>
+<vertex x="1.65" y="2.32"/>
+<vertex x="1.62" y="2.31"/>
+<vertex x="1.59" y="2.31"/>
+<vertex x="1.51" y="2.33"/>
+<vertex x="1.47" y="2.35"/>
+<vertex x="1.44" y="2.37"/>
+<vertex x="1.4" y="2.4"/>
+<vertex x="1.34" y="2.46"/>
+<vertex x="1.3" y="2.52"/>
+<vertex x="1.29" y="2.56"/>
+<vertex x="1.29" y="2.62"/>
+<vertex x="1.3" y="2.65"/>
+<vertex x="1.31" y="2.67"/>
+<vertex x="1.33" y="2.7"/>
+<vertex x="1.37" y="2.73"/>
+<vertex x="1.41" y="2.75"/>
+<vertex x="1.46" y="2.76"/>
+<vertex x="1.5" y="2.77"/>
+<vertex x="1.56" y="2.77"/>
+<vertex x="1.58" y="2.76"/>
+<vertex x="1.59" y="2.76"/>
+<vertex x="1.58" y="2.77"/>
+<vertex x="1.54" y="2.8"/>
+<vertex x="1.4" y="2.87"/>
+<vertex x="1.31" y="2.89"/>
+<vertex x="1.21" y="2.89"/>
+<vertex x="1.1" y="2.87"/>
+<vertex x="0.99" y="2.81"/>
+<vertex x="0.9" y="2.74"/>
+<vertex x="0.85" y="2.66"/>
+<vertex x="0.82" y="2.57"/>
+<vertex x="0.82" y="2.49"/>
+<vertex x="0.84" y="2.4"/>
+<vertex x="0.89" y="2.31"/>
+<vertex x="0.96" y="2.23"/>
+<vertex x="1.04" y="2.14"/>
+<vertex x="1.11" y="2.07"/>
+<vertex x="1.14" y="1.99"/>
+<vertex x="1.14" y="1.92"/>
+<vertex x="1.12" y="1.86"/>
+<vertex x="1.08" y="1.81"/>
+<vertex x="1.02" y="1.77"/>
+<vertex x="0.94" y="1.75"/>
+<vertex x="0.86" y="1.75"/>
+<vertex x="0.81" y="1.76"/>
+<vertex x="0.76" y="1.78"/>
+<vertex x="0.7" y="1.84"/>
+<vertex x="0.68" y="1.87"/>
+<vertex x="0.67" y="1.9"/>
+<vertex x="0.67" y="1.94"/>
+<vertex x="0.68" y="1.97"/>
+<vertex x="0.74" y="2.03"/>
+<vertex x="0.77" y="2.04"/>
+<vertex x="0.81" y="2.06"/>
+<vertex x="0.82" y="2.07"/>
+<vertex x="0.78" y="2.09"/>
+<vertex x="0.66" y="2.09"/>
+<vertex x="0.6" y="2.08"/>
+<vertex x="0.55" y="2.07"/>
+<vertex x="0.5" y="2.05"/>
+<vertex x="0.46" y="2.02"/>
+<vertex x="0.41" y="1.98"/>
+<vertex x="0.35" y="1.88"/>
+<vertex x="0.33" y="1.81"/>
+<vertex x="0.32" y="1.73"/>
+<vertex x="0.32" y="0.36"/>
+<vertex x="0.37" y="0.41"/>
+<vertex x="0.4" y="0.46"/>
+<vertex x="0.45" y="0.51"/>
+<vertex x="0.5" y="0.57"/>
+<vertex x="0.62" y="0.69"/>
+<vertex x="0.74" y="0.83"/>
+<vertex x="0.84" y="0.93"/>
+<vertex x="0.94" y="0.99"/>
+<vertex x="1" y="1"/>
+<vertex x="1.19" y="1"/>
+<vertex x="1.31" y="1.02"/>
+<vertex x="1.42" y="1.05"/>
+<vertex x="1.52" y="1.09"/>
+<vertex x="1.62" y="1.15"/>
+<vertex x="1.7" y="1.22"/>
+<vertex x="1.78" y="1.3"/>
+<vertex x="1.85" y="1.39"/>
+<vertex x="1.95" y="1.57"/>
+<vertex x="2" y="1.76"/>
+<vertex x="2.01" y="1.93"/>
+<vertex x="1.98" y="2.09"/>
+<vertex x="1.93" y="2.24"/>
+<vertex x="1.86" y="2.35"/>
+<vertex x="1.78" y="2.44"/>
+</polygon>
+</package>
 <package name="SFE_LOGO_NAME_.2">
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="0.74" y="2.6"/>
 <vertex x="0.75" y="2.49"/>
 <vertex x="0.79" y="2.39"/>
@@ -5444,7 +5638,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="0.55" y="2.6"/>
 <vertex x="0.65" y="2.6"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="4.95" y="2.61"/>
 <vertex x="5" y="2.76"/>
 <vertex x="5.02" y="2.92"/>
@@ -5454,7 +5648,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="5.73" y="2.52"/>
 <vertex x="5.63" y="2.28"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="5.63" y="2.28"/>
 <vertex x="5.5" y="2.06"/>
 <vertex x="5.32" y="1.87"/>
@@ -5557,7 +5751,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="4.89" y="2.47"/>
 <vertex x="4.95" y="2.61"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="6.99" y="3.31"/>
 <vertex x="7.17" y="3.33"/>
 <vertex x="7.34" y="3.35"/>
@@ -5574,7 +5768,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="7.18" y="2.89"/>
 <vertex x="7.13" y="2.88"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="7.13" y="2.87"/>
 <vertex x="7.09" y="2.86"/>
 <vertex x="7.05" y="2.85"/>
@@ -5837,7 +6031,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="6.81" y="3.28"/>
 <vertex x="6.99" y="3.31"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="9.13" y="4.38"/>
 <vertex x="9.22" y="4.4"/>
 <vertex x="9.31" y="4.41"/>
@@ -5919,7 +6113,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="9.12" y="3.71"/>
 <vertex x="9.12" y="4.04"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="11.25" y="5.16"/>
 <vertex x="12.03" y="5.59"/>
 <vertex x="12.03" y="3.5"/>
@@ -5933,7 +6127,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="12.03" y="1.69"/>
 <vertex x="11.25" y="1.69"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="14.52" y="3.99"/>
 <vertex x="14.42" y="3.99"/>
 <vertex x="14.33" y="3.99"/>
@@ -6063,7 +6257,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="14.52" y="3.42"/>
 <vertex x="14.52" y="3.7"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="18.7" y="1.69"/>
 <vertex x="18.61" y="1.69"/>
 <vertex x="18.52" y="1.69"/>
@@ -6162,7 +6356,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="18.71" y="2.39"/>
 <vertex x="18.71" y="2.04"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="19.13" y="4.51"/>
 <vertex x="19.22" y="4.51"/>
 <vertex x="19.31" y="4.51"/>
@@ -6263,7 +6457,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </polygon>
 </package>
 <package name="SFE_LOGO_NAME_.3">
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="1.61" y="3.91"/>
 <vertex x="1.63" y="3.73"/>
 <vertex x="1.68" y="3.58"/>
@@ -6377,7 +6571,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="1.33" y="3.91"/>
 <vertex x="1.47" y="3.91"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="7.93" y="3.91"/>
 <vertex x="8" y="4.14"/>
 <vertex x="8.03" y="4.38"/>
@@ -6387,7 +6581,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="9.1" y="3.78"/>
 <vertex x="8.95" y="3.41"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="8.95" y="3.41"/>
 <vertex x="8.75" y="3.08"/>
 <vertex x="8.49" y="2.81"/>
@@ -6491,7 +6685,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="7.83" y="3.71"/>
 <vertex x="7.93" y="3.91"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="10.98" y="4.96"/>
 <vertex x="11.25" y="5"/>
 <vertex x="11.5" y="5.03"/>
@@ -6508,7 +6702,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="11.27" y="4.33"/>
 <vertex x="11.2" y="4.31"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="11.2" y="4.31"/>
 <vertex x="11.14" y="4.29"/>
 <vertex x="11.08" y="4.27"/>
@@ -6771,7 +6965,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="10.72" y="4.92"/>
 <vertex x="10.98" y="4.96"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="14.19" y="6.57"/>
 <vertex x="14.33" y="6.6"/>
 <vertex x="14.47" y="6.62"/>
@@ -6854,7 +7048,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="14.18" y="5.56"/>
 <vertex x="14.18" y="6.07"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="17.38" y="7.75"/>
 <vertex x="18.54" y="8.39"/>
 <vertex x="18.54" y="5.24"/>
@@ -6868,7 +7062,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="18.54" y="2.53"/>
 <vertex x="17.38" y="2.53"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="22.28" y="5.99"/>
 <vertex x="22.13" y="5.99"/>
 <vertex x="21.99" y="5.99"/>
@@ -6998,7 +7192,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="22.28" y="5.12"/>
 <vertex x="22.28" y="5.56"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="28.55" y="2.53"/>
 <vertex x="28.41" y="2.53"/>
 <vertex x="28.27" y="2.53"/>
@@ -7097,7 +7291,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="28.56" y="3.59"/>
 <vertex x="28.56" y="3.06"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="29.2" y="6.77"/>
 <vertex x="29.33" y="6.77"/>
 <vertex x="29.47" y="6.77"/>
@@ -7199,7 +7393,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </polygon>
 </package>
 <package name="SFE_LOGO_NAME_.4">
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="1.47" y="5.2"/>
 <vertex x="1.5" y="4.96"/>
 <vertex x="1.57" y="4.77"/>
@@ -7313,7 +7507,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="1.1" y="5.2"/>
 <vertex x="1.29" y="5.2"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="9.88" y="5.2"/>
 <vertex x="9.97" y="5.5"/>
 <vertex x="10.02" y="5.83"/>
@@ -7323,7 +7517,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="11.43" y="5.03"/>
 <vertex x="11.24" y="4.54"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="11.24" y="4.54"/>
 <vertex x="10.97" y="4.1"/>
 <vertex x="10.62" y="3.74"/>
@@ -7427,7 +7621,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="9.75" y="4.93"/>
 <vertex x="9.88" y="5.2"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="13.94" y="6.6"/>
 <vertex x="14.29" y="6.64"/>
 <vertex x="14.63" y="6.68"/>
@@ -7444,7 +7638,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="14.32" y="5.76"/>
 <vertex x="14.23" y="5.74"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="14.23" y="5.73"/>
 <vertex x="14.15" y="5.71"/>
 <vertex x="14.07" y="5.68"/>
@@ -7707,7 +7901,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="13.59" y="6.54"/>
 <vertex x="13.94" y="6.6"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="18.21" y="8.74"/>
 <vertex x="18.4" y="8.77"/>
 <vertex x="18.58" y="8.81"/>
@@ -7789,7 +7983,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="18.2" y="7.4"/>
 <vertex x="18.2" y="8.07"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="22.44" y="10.3"/>
 <vertex x="23.99" y="11.15"/>
 <vertex x="23.99" y="6.97"/>
@@ -7803,7 +7997,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="23.99" y="3.36"/>
 <vertex x="22.44" y="3.36"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="28.96" y="7.97"/>
 <vertex x="28.77" y="7.97"/>
 <vertex x="28.58" y="7.97"/>
@@ -7933,7 +8127,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="28.96" y="6.81"/>
 <vertex x="28.96" y="7.39"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="37.31" y="3.36"/>
 <vertex x="37.12" y="3.36"/>
 <vertex x="36.94" y="3.36"/>
@@ -8032,7 +8226,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="37.32" y="4.77"/>
 <vertex x="37.32" y="4.07"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="38.16" y="9"/>
 <vertex x="38.35" y="9"/>
 <vertex x="38.53" y="9"/>
@@ -8133,7 +8327,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </polygon>
 </package>
 <package name="SFE_LOGO_NAME_.5">
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="1.84" y="6.5"/>
 <vertex x="1.87" y="6.21"/>
 <vertex x="1.97" y="5.96"/>
@@ -8247,7 +8441,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="1.38" y="6.5"/>
 <vertex x="1.61" y="6.5"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="12.35" y="6.5"/>
 <vertex x="12.46" y="6.88"/>
 <vertex x="12.53" y="7.28"/>
@@ -8257,7 +8451,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="14.29" y="6.29"/>
 <vertex x="14.05" y="5.67"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="14.05" y="5.68"/>
 <vertex x="13.71" y="5.13"/>
 <vertex x="13.28" y="4.67"/>
@@ -8361,7 +8555,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="12.18" y="6.16"/>
 <vertex x="12.35" y="6.5"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="17.43" y="8.25"/>
 <vertex x="17.87" y="8.31"/>
 <vertex x="18.29" y="8.35"/>
@@ -8378,7 +8572,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="17.9" y="7.2"/>
 <vertex x="17.79" y="7.17"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="17.79" y="7.17"/>
 <vertex x="17.69" y="7.13"/>
 <vertex x="17.59" y="7.09"/>
@@ -8641,7 +8835,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="16.99" y="8.17"/>
 <vertex x="17.43" y="8.25"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="22.77" y="10.93"/>
 <vertex x="23" y="10.97"/>
 <vertex x="23.23" y="11.01"/>
@@ -8724,7 +8918,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="22.75" y="9.24"/>
 <vertex x="22.75" y="10.09"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="28.06" y="12.88"/>
 <vertex x="29.99" y="13.94"/>
 <vertex x="29.99" y="8.72"/>
@@ -8738,7 +8932,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="29.99" y="4.2"/>
 <vertex x="28.06" y="4.2"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="36.2" y="9.96"/>
 <vertex x="35.96" y="9.96"/>
 <vertex x="35.73" y="9.96"/>
@@ -8868,7 +9062,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="36.2" y="8.52"/>
 <vertex x="36.2" y="9.24"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="46.64" y="4.2"/>
 <vertex x="46.41" y="4.2"/>
 <vertex x="46.17" y="4.2"/>
@@ -8968,7 +9162,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="46.66" y="5.96"/>
 <vertex x="46.66" y="5.08"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="47.71" y="11.26"/>
 <vertex x="47.94" y="11.26"/>
 <vertex x="48.17" y="11.26"/>
@@ -9070,7 +9264,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </polygon>
 </package>
 <package name="SFE_LOGO_NAME_.6">
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="2.21" y="7.79"/>
 <vertex x="2.25" y="7.45"/>
 <vertex x="2.36" y="7.15"/>
@@ -9184,7 +9378,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="1.66" y="7.79"/>
 <vertex x="1.93" y="7.79"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="14.82" y="7.8"/>
 <vertex x="14.95" y="8.25"/>
 <vertex x="15.03" y="8.74"/>
@@ -9194,7 +9388,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="17.15" y="7.55"/>
 <vertex x="16.86" y="6.81"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="16.86" y="6.81"/>
 <vertex x="16.45" y="6.15"/>
 <vertex x="15.93" y="5.6"/>
@@ -9299,7 +9493,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="14.62" y="7.39"/>
 <vertex x="14.82" y="7.8"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="20.91" y="9.9"/>
 <vertex x="21.44" y="9.97"/>
 <vertex x="21.95" y="10.03"/>
@@ -9316,7 +9510,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="21.48" y="8.64"/>
 <vertex x="21.35" y="8.6"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="21.35" y="8.6"/>
 <vertex x="21.23" y="8.56"/>
 <vertex x="21.11" y="8.51"/>
@@ -9579,7 +9773,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="20.39" y="9.81"/>
 <vertex x="20.91" y="9.9"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="27.32" y="13.11"/>
 <vertex x="27.59" y="13.16"/>
 <vertex x="27.87" y="13.21"/>
@@ -9662,7 +9856,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="27.3" y="11.09"/>
 <vertex x="27.3" y="12.1"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="33.67" y="15.46"/>
 <vertex x="35.99" y="16.73"/>
 <vertex x="35.99" y="10.46"/>
@@ -9676,7 +9870,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="35.99" y="5.04"/>
 <vertex x="33.67" y="5.04"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="43.44" y="11.95"/>
 <vertex x="43.16" y="11.95"/>
 <vertex x="42.87" y="11.95"/>
@@ -9806,7 +10000,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="43.44" y="10.22"/>
 <vertex x="43.44" y="11.08"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="55.96" y="5.04"/>
 <vertex x="55.69" y="5.04"/>
 <vertex x="55.41" y="5.04"/>
@@ -9907,7 +10101,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="55.99" y="7.16"/>
 <vertex x="55.99" y="6.1"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="57.25" y="13.51"/>
 <vertex x="57.52" y="13.51"/>
 <vertex x="57.8" y="13.51"/>
@@ -10010,7 +10204,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </polygon>
 </package>
 <package name="SFE_LOGO_NAME_.7">
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="2.58" y="9.09"/>
 <vertex x="2.62" y="8.69"/>
 <vertex x="2.75" y="8.34"/>
@@ -10124,7 +10318,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="1.93" y="9.09"/>
 <vertex x="2.25" y="9.09"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="17.29" y="9.1"/>
 <vertex x="17.45" y="9.63"/>
 <vertex x="17.54" y="10.2"/>
@@ -10134,7 +10328,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="20.01" y="8.81"/>
 <vertex x="19.67" y="7.94"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="19.67" y="7.95"/>
 <vertex x="19.2" y="7.18"/>
 <vertex x="18.59" y="6.54"/>
@@ -10243,7 +10437,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="17.06" y="8.62"/>
 <vertex x="17.29" y="9.1"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="24.4" y="11.55"/>
 <vertex x="25.01" y="11.63"/>
 <vertex x="25.61" y="11.7"/>
@@ -10260,7 +10454,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="25.06" y="10.08"/>
 <vertex x="24.91" y="10.04"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="24.91" y="10.03"/>
 <vertex x="24.76" y="9.99"/>
 <vertex x="24.63" y="9.93"/>
@@ -10523,7 +10717,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="23.78" y="11.44"/>
 <vertex x="24.4" y="11.55"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="31.87" y="15.3"/>
 <vertex x="32.19" y="15.35"/>
 <vertex x="32.52" y="15.41"/>
@@ -10607,7 +10801,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="31.85" y="12.94"/>
 <vertex x="31.85" y="14.12"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="39.28" y="18.03"/>
 <vertex x="41.99" y="19.52"/>
 <vertex x="41.99" y="12.2"/>
@@ -10621,7 +10815,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="41.99" y="5.89"/>
 <vertex x="39.28" y="5.89"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="50.68" y="13.94"/>
 <vertex x="50.35" y="13.94"/>
 <vertex x="50.02" y="13.94"/>
@@ -10751,7 +10945,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="50.68" y="11.92"/>
 <vertex x="50.68" y="12.93"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="65.29" y="5.88"/>
 <vertex x="64.97" y="5.88"/>
 <vertex x="64.64" y="5.88"/>
@@ -10852,7 +11046,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="65.32" y="8.35"/>
 <vertex x="65.32" y="7.12"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="66.79" y="15.76"/>
 <vertex x="67.11" y="15.76"/>
 <vertex x="67.43" y="15.76"/>
@@ -10956,7 +11150,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </polygon>
 </package>
 <package name="SFE_LOGO_NAME_.8">
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="3.45" y="10.39"/>
 <vertex x="3.5" y="9.93"/>
 <vertex x="3.65" y="9.53"/>
@@ -11072,7 +11266,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="2.71" y="10.39"/>
 <vertex x="3.08" y="10.39"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="20.26" y="10.4"/>
 <vertex x="20.44" y="11"/>
 <vertex x="20.54" y="11.65"/>
@@ -11085,7 +11279,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="23.32" y="9.94"/>
 <vertex x="22.98" y="9.08"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="22.98" y="9.08"/>
 <vertex x="22.92" y="8.96"/>
 <vertex x="22.44" y="8.2"/>
@@ -11204,7 +11398,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="19.99" y="9.86"/>
 <vertex x="20.26" y="10.4"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="28.39" y="13.2"/>
 <vertex x="29.09" y="13.29"/>
 <vertex x="29.77" y="13.37"/>
@@ -11221,7 +11415,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="29.14" y="11.52"/>
 <vertex x="28.97" y="11.47"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="28.97" y="11.46"/>
 <vertex x="28.8" y="11.41"/>
 <vertex x="28.64" y="11.35"/>
@@ -11484,7 +11678,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="27.68" y="13.08"/>
 <vertex x="28.39" y="13.2"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="36.92" y="17.48"/>
 <vertex x="37.29" y="17.55"/>
 <vertex x="37.66" y="17.61"/>
@@ -11568,7 +11762,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="36.9" y="14.79"/>
 <vertex x="36.9" y="16.14"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="45.39" y="20.61"/>
 <vertex x="48.49" y="22.31"/>
 <vertex x="48.49" y="13.95"/>
@@ -11582,7 +11776,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="48.49" y="6.73"/>
 <vertex x="45.39" y="6.73"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="58.43" y="15.94"/>
 <vertex x="58.04" y="15.94"/>
 <vertex x="57.66" y="15.94"/>
@@ -11712,7 +11906,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="58.42" y="13.63"/>
 <vertex x="58.42" y="14.78"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="75.12" y="6.73"/>
 <vertex x="74.75" y="6.73"/>
 <vertex x="74.38" y="6.73"/>
@@ -11816,7 +12010,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="75.15" y="9.54"/>
 <vertex x="75.15" y="8.13"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="76.83" y="18.01"/>
 <vertex x="77.2" y="18.01"/>
 <vertex x="77.56" y="18.01"/>
@@ -11922,7 +12116,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </polygon>
 </package>
 <package name="SFE_LOGO_NAME_.9">
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="3.31" y="11.69"/>
 <vertex x="3.37" y="11.17"/>
 <vertex x="3.54" y="10.73"/>
@@ -12051,7 +12245,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="2.48" y="11.69"/>
 <vertex x="2.9" y="11.69"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="22.23" y="11.7"/>
 <vertex x="22.43" y="12.38"/>
 <vertex x="22.55" y="13.11"/>
@@ -12064,7 +12258,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="25.68" y="11.18"/>
 <vertex x="25.29" y="10.21"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="25.29" y="10.22"/>
 <vertex x="25.22" y="10.08"/>
 <vertex x="24.68" y="9.23"/>
@@ -12183,7 +12377,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="21.93" y="11.09"/>
 <vertex x="22.23" y="11.69"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="31.37" y="14.85"/>
 <vertex x="32.16" y="14.95"/>
 <vertex x="32.93" y="15.04"/>
@@ -12200,7 +12394,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="32.22" y="12.96"/>
 <vertex x="32.03" y="12.91"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="32.03" y="12.9"/>
 <vertex x="31.84" y="12.84"/>
 <vertex x="31.66" y="12.77"/>
@@ -12463,7 +12657,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="30.58" y="14.71"/>
 <vertex x="31.37" y="14.85"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="40.98" y="19.67"/>
 <vertex x="41.39" y="19.74"/>
 <vertex x="41.81" y="19.82"/>
@@ -12547,7 +12741,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="40.95" y="16.64"/>
 <vertex x="40.95" y="18.15"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="50.5" y="23.18"/>
 <vertex x="53.99" y="25.1"/>
 <vertex x="53.99" y="15.69"/>
@@ -12561,7 +12755,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="53.99" y="7.57"/>
 <vertex x="50.5" y="7.57"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="65.17" y="17.93"/>
 <vertex x="64.74" y="17.93"/>
 <vertex x="64.31" y="17.93"/>
@@ -12692,7 +12886,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="65.16" y="15.33"/>
 <vertex x="65.16" y="16.63"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="83.94" y="7.57"/>
 <vertex x="83.53" y="7.57"/>
 <vertex x="83.11" y="7.57"/>
@@ -12798,7 +12992,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="83.98" y="10.74"/>
 <vertex x="83.98" y="9.15"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="85.87" y="20.26"/>
 <vertex x="86.28" y="20.26"/>
 <vertex x="86.7" y="20.26"/>
@@ -12906,7 +13100,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </polygon>
 </package>
 <package name="SFE_LOGO_NAME_1">
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="3.68" y="12.99"/>
 <vertex x="3.75" y="12.41"/>
 <vertex x="3.94" y="11.92"/>
@@ -13051,7 +13245,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="2.76" y="12.99"/>
 <vertex x="3.22" y="12.99"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="24.7" y="13"/>
 <vertex x="24.92" y="13.75"/>
 <vertex x="25.05" y="14.57"/>
@@ -13064,7 +13258,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="28.53" y="12.42"/>
 <vertex x="28.1" y="11.35"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="28.1" y="11.35"/>
 <vertex x="28.02" y="11.2"/>
 <vertex x="27.42" y="10.26"/>
@@ -13184,7 +13378,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="24.37" y="12.32"/>
 <vertex x="24.7" y="12.99"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="34.86" y="16.5"/>
 <vertex x="35.74" y="16.61"/>
 <vertex x="36.58" y="16.71"/>
@@ -13201,7 +13395,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="35.8" y="14.4"/>
 <vertex x="35.59" y="14.34"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="35.59" y="14.33"/>
 <vertex x="35.38" y="14.27"/>
 <vertex x="35.18" y="14.19"/>
@@ -13465,7 +13659,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="33.98" y="16.35"/>
 <vertex x="34.86" y="16.5"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="45.53" y="21.85"/>
 <vertex x="45.99" y="21.94"/>
 <vertex x="46.45" y="22.02"/>
@@ -13550,7 +13744,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="45.5" y="18.49"/>
 <vertex x="45.5" y="20.17"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="56.11" y="25.76"/>
 <vertex x="59.99" y="27.88"/>
 <vertex x="59.99" y="17.43"/>
@@ -13564,7 +13758,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="59.99" y="8.41"/>
 <vertex x="56.11" y="8.41"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="72.41" y="19.92"/>
 <vertex x="71.93" y="19.92"/>
 <vertex x="71.45" y="19.92"/>
@@ -13695,7 +13889,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="72.4" y="17.03"/>
 <vertex x="72.4" y="18.47"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="93.27" y="8.41"/>
 <vertex x="92.81" y="8.41"/>
 <vertex x="92.35" y="8.41"/>
@@ -13804,7 +13998,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="93.31" y="11.93"/>
 <vertex x="93.31" y="10.17"/>
 </polygon>
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="95.41" y="22.51"/>
 <vertex x="95.87" y="22.51"/>
 <vertex x="96.33" y="22.51"/>
@@ -13915,27 +14109,21 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </polygon>
 </package>
 <package name="SFE_LOGO_FLAME_.1">
-<polygon width="0.00508125" layer="21">
-<vertex x="1.7" y="2.48"/>
-<vertex x="1.7" y="2.46"/>
-<vertex x="1.7" y="2.43"/>
+<polygon width="0.01" layer="21">
+<vertex x="1.7" y="2.49"/>
 <vertex x="1.7" y="2.4"/>
 <vertex x="1.69" y="2.37"/>
 <vertex x="1.68" y="2.35"/>
 <vertex x="1.65" y="2.32"/>
 <vertex x="1.62" y="2.31"/>
 <vertex x="1.59" y="2.31"/>
-<vertex x="1.55" y="2.32"/>
 <vertex x="1.51" y="2.33"/>
 <vertex x="1.47" y="2.35"/>
 <vertex x="1.44" y="2.37"/>
 <vertex x="1.4" y="2.4"/>
-<vertex x="1.37" y="2.43"/>
 <vertex x="1.34" y="2.46"/>
-<vertex x="1.32" y="2.49"/>
 <vertex x="1.3" y="2.52"/>
 <vertex x="1.29" y="2.56"/>
-<vertex x="1.29" y="2.59"/>
 <vertex x="1.29" y="2.62"/>
 <vertex x="1.3" y="2.65"/>
 <vertex x="1.31" y="2.67"/>
@@ -13944,13 +14132,11 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="1.41" y="2.75"/>
 <vertex x="1.46" y="2.76"/>
 <vertex x="1.5" y="2.77"/>
-<vertex x="1.53" y="2.77"/>
 <vertex x="1.56" y="2.77"/>
 <vertex x="1.58" y="2.76"/>
 <vertex x="1.59" y="2.76"/>
 <vertex x="1.58" y="2.77"/>
 <vertex x="1.54" y="2.8"/>
-<vertex x="1.48" y="2.83"/>
 <vertex x="1.4" y="2.87"/>
 <vertex x="1.31" y="2.89"/>
 <vertex x="1.21" y="2.89"/>
@@ -13974,58 +14160,35 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="0.86" y="1.75"/>
 <vertex x="0.81" y="1.76"/>
 <vertex x="0.76" y="1.78"/>
-<vertex x="0.73" y="1.81"/>
 <vertex x="0.7" y="1.84"/>
 <vertex x="0.68" y="1.87"/>
 <vertex x="0.67" y="1.9"/>
 <vertex x="0.67" y="1.94"/>
 <vertex x="0.68" y="1.97"/>
-<vertex x="0.7" y="1.99"/>
-<vertex x="0.72" y="2.01"/>
 <vertex x="0.74" y="2.03"/>
 <vertex x="0.77" y="2.04"/>
-<vertex x="0.79" y="2.05"/>
 <vertex x="0.81" y="2.06"/>
 <vertex x="0.82" y="2.07"/>
-<vertex x="0.8" y="2.08"/>
 <vertex x="0.78" y="2.09"/>
-<vertex x="0.74" y="2.09"/>
-<vertex x="0.7" y="2.09"/>
 <vertex x="0.66" y="2.09"/>
 <vertex x="0.6" y="2.08"/>
 <vertex x="0.55" y="2.07"/>
 <vertex x="0.5" y="2.05"/>
 <vertex x="0.46" y="2.02"/>
 <vertex x="0.41" y="1.98"/>
-<vertex x="0.38" y="1.93"/>
 <vertex x="0.35" y="1.88"/>
 <vertex x="0.33" y="1.81"/>
 <vertex x="0.32" y="1.73"/>
-<vertex x="0.32" y="1.63"/>
-<vertex x="0.32" y="1.47"/>
-<vertex x="0.32" y="1.31"/>
-<vertex x="0.32" y="1.15"/>
-<vertex x="0.32" y="0.99"/>
-<vertex x="0.32" y="0.83"/>
-<vertex x="0.32" y="0.67"/>
-<vertex x="0.32" y="0.51"/>
-<vertex x="0.32" y="0.35"/>
 <vertex x="0.32" y="0.36"/>
-<vertex x="0.34" y="0.38"/>
 <vertex x="0.37" y="0.41"/>
 <vertex x="0.4" y="0.46"/>
 <vertex x="0.45" y="0.51"/>
 <vertex x="0.5" y="0.57"/>
-<vertex x="0.56" y="0.63"/>
 <vertex x="0.62" y="0.69"/>
-<vertex x="0.68" y="0.76"/>
 <vertex x="0.74" y="0.83"/>
-<vertex x="0.79" y="0.88"/>
 <vertex x="0.84" y="0.93"/>
-<vertex x="0.89" y="0.96"/>
 <vertex x="0.94" y="0.99"/>
 <vertex x="1" y="1"/>
-<vertex x="1.07" y="1"/>
 <vertex x="1.19" y="1"/>
 <vertex x="1.31" y="1.02"/>
 <vertex x="1.42" y="1.05"/>
@@ -14041,11 +14204,10 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="1.93" y="2.24"/>
 <vertex x="1.86" y="2.35"/>
 <vertex x="1.78" y="2.44"/>
-<vertex x="1.7" y="2.49"/>
 </polygon>
 </package>
 <package name="SFE_LOGO_FLAME_.2">
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="3.12" y="4.54"/>
 <vertex x="3.12" y="4.53"/>
 <vertex x="3.12" y="4.49"/>
@@ -14178,7 +14340,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </polygon>
 </package>
 <package name="SFE_LOGO_FLAME_.3">
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="4.65" y="6.54"/>
 <vertex x="4.65" y="6.52"/>
 <vertex x="4.66" y="6.47"/>
@@ -14311,7 +14473,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </polygon>
 </package>
 <package name="SFE_LOGO_FLAME_.4">
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="6.17" y="9.11"/>
 <vertex x="6.18" y="9.09"/>
 <vertex x="6.19" y="9.02"/>
@@ -14444,7 +14606,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </polygon>
 </package>
 <package name="SFE_LOGO_FLAME_.5">
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="7.41" y="10.77"/>
 <vertex x="7.42" y="10.74"/>
 <vertex x="7.43" y="10.65"/>
@@ -14578,7 +14740,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </polygon>
 </package>
 <package name="SFE_LOGO_FLAME_.6">
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="8.85" y="13.12"/>
 <vertex x="8.86" y="13.08"/>
 <vertex x="8.87" y="12.98"/>
@@ -14714,7 +14876,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </polygon>
 </package>
 <package name="SFE_LOGO_FLAME_.7">
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="10.18" y="15.58"/>
 <vertex x="10.18" y="15.54"/>
 <vertex x="10.2" y="15.41"/>
@@ -14852,7 +15014,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </polygon>
 </package>
 <package name="SFE_LOGO_FLAME_.8">
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="11.06" y="17.02"/>
 <vertex x="11.06" y="16.96"/>
 <vertex x="11.09" y="16.82"/>
@@ -14993,7 +15155,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </polygon>
 </package>
 <package name="SFE_LOGO_FLAME_.9">
-<polygon width="0.00508125" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="12.72" y="19.45"/>
 <vertex x="12.73" y="19.39"/>
 <vertex x="12.76" y="19.23"/>
@@ -15141,27 +15303,21 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </polygon>
 </package>
 <package name="SFE_LOGO_FLAME_COPPER_.1">
-<polygon width="0.00508125" layer="1">
-<vertex x="1.7" y="2.48"/>
-<vertex x="1.7" y="2.46"/>
-<vertex x="1.7" y="2.43"/>
+<polygon width="0.01" layer="1">
+<vertex x="1.7" y="2.49"/>
 <vertex x="1.7" y="2.4"/>
 <vertex x="1.69" y="2.37"/>
 <vertex x="1.68" y="2.35"/>
 <vertex x="1.65" y="2.32"/>
 <vertex x="1.62" y="2.31"/>
 <vertex x="1.59" y="2.31"/>
-<vertex x="1.55" y="2.32"/>
 <vertex x="1.51" y="2.33"/>
 <vertex x="1.47" y="2.35"/>
 <vertex x="1.44" y="2.37"/>
 <vertex x="1.4" y="2.4"/>
-<vertex x="1.37" y="2.43"/>
 <vertex x="1.34" y="2.46"/>
-<vertex x="1.32" y="2.49"/>
 <vertex x="1.3" y="2.52"/>
 <vertex x="1.29" y="2.56"/>
-<vertex x="1.29" y="2.59"/>
 <vertex x="1.29" y="2.62"/>
 <vertex x="1.3" y="2.65"/>
 <vertex x="1.31" y="2.67"/>
@@ -15170,13 +15326,11 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="1.41" y="2.75"/>
 <vertex x="1.46" y="2.76"/>
 <vertex x="1.5" y="2.77"/>
-<vertex x="1.53" y="2.77"/>
 <vertex x="1.56" y="2.77"/>
 <vertex x="1.58" y="2.76"/>
 <vertex x="1.59" y="2.76"/>
 <vertex x="1.58" y="2.77"/>
 <vertex x="1.54" y="2.8"/>
-<vertex x="1.48" y="2.83"/>
 <vertex x="1.4" y="2.87"/>
 <vertex x="1.31" y="2.89"/>
 <vertex x="1.21" y="2.89"/>
@@ -15200,58 +15354,35 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="0.86" y="1.75"/>
 <vertex x="0.81" y="1.76"/>
 <vertex x="0.76" y="1.78"/>
-<vertex x="0.73" y="1.81"/>
 <vertex x="0.7" y="1.84"/>
 <vertex x="0.68" y="1.87"/>
 <vertex x="0.67" y="1.9"/>
 <vertex x="0.67" y="1.94"/>
 <vertex x="0.68" y="1.97"/>
-<vertex x="0.7" y="1.99"/>
-<vertex x="0.72" y="2.01"/>
 <vertex x="0.74" y="2.03"/>
 <vertex x="0.77" y="2.04"/>
-<vertex x="0.79" y="2.05"/>
 <vertex x="0.81" y="2.06"/>
 <vertex x="0.82" y="2.07"/>
-<vertex x="0.8" y="2.08"/>
 <vertex x="0.78" y="2.09"/>
-<vertex x="0.74" y="2.09"/>
-<vertex x="0.7" y="2.09"/>
 <vertex x="0.66" y="2.09"/>
 <vertex x="0.6" y="2.08"/>
 <vertex x="0.55" y="2.07"/>
 <vertex x="0.5" y="2.05"/>
 <vertex x="0.46" y="2.02"/>
 <vertex x="0.41" y="1.98"/>
-<vertex x="0.38" y="1.93"/>
 <vertex x="0.35" y="1.88"/>
 <vertex x="0.33" y="1.81"/>
 <vertex x="0.32" y="1.73"/>
-<vertex x="0.32" y="1.63"/>
-<vertex x="0.32" y="1.47"/>
-<vertex x="0.32" y="1.31"/>
-<vertex x="0.32" y="1.15"/>
-<vertex x="0.32" y="0.99"/>
-<vertex x="0.32" y="0.83"/>
-<vertex x="0.32" y="0.67"/>
-<vertex x="0.32" y="0.51"/>
-<vertex x="0.32" y="0.35"/>
 <vertex x="0.32" y="0.36"/>
-<vertex x="0.34" y="0.38"/>
 <vertex x="0.37" y="0.41"/>
 <vertex x="0.4" y="0.46"/>
 <vertex x="0.45" y="0.51"/>
 <vertex x="0.5" y="0.57"/>
-<vertex x="0.56" y="0.63"/>
 <vertex x="0.62" y="0.69"/>
-<vertex x="0.68" y="0.76"/>
 <vertex x="0.74" y="0.83"/>
-<vertex x="0.79" y="0.88"/>
 <vertex x="0.84" y="0.93"/>
-<vertex x="0.89" y="0.96"/>
 <vertex x="0.94" y="0.99"/>
 <vertex x="1" y="1"/>
-<vertex x="1.07" y="1"/>
 <vertex x="1.19" y="1"/>
 <vertex x="1.31" y="1.02"/>
 <vertex x="1.42" y="1.05"/>
@@ -15267,11 +15398,10 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="1.93" y="2.24"/>
 <vertex x="1.86" y="2.35"/>
 <vertex x="1.78" y="2.44"/>
-<vertex x="1.7" y="2.49"/>
 </polygon>
 </package>
 <package name="SFE_LOGO_FLAME_COPPER_.2">
-<polygon width="0.00508125" layer="1">
+<polygon width="0.01" layer="1">
 <vertex x="3.12" y="4.54"/>
 <vertex x="3.12" y="4.53"/>
 <vertex x="3.12" y="4.49"/>
@@ -15404,7 +15534,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </polygon>
 </package>
 <package name="SFE_LOGO_FLAME_COPPER_.3">
-<polygon width="0.00508125" layer="1">
+<polygon width="0.01" layer="1">
 <vertex x="4.65" y="6.54"/>
 <vertex x="4.65" y="6.52"/>
 <vertex x="4.66" y="6.47"/>
@@ -15536,235 +15666,8 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="4.64" y="6.55"/>
 </polygon>
 </package>
-<package name="SFE_LOGO_FLAME_COPPER_EXPOSED_.1">
-<polygon width="0.00508125" layer="1">
-<vertex x="1.7" y="2.48"/>
-<vertex x="1.7" y="2.46"/>
-<vertex x="1.7" y="2.43"/>
-<vertex x="1.7" y="2.4"/>
-<vertex x="1.69" y="2.37"/>
-<vertex x="1.68" y="2.35"/>
-<vertex x="1.65" y="2.32"/>
-<vertex x="1.62" y="2.31"/>
-<vertex x="1.59" y="2.31"/>
-<vertex x="1.55" y="2.32"/>
-<vertex x="1.51" y="2.33"/>
-<vertex x="1.47" y="2.35"/>
-<vertex x="1.44" y="2.37"/>
-<vertex x="1.4" y="2.4"/>
-<vertex x="1.37" y="2.43"/>
-<vertex x="1.34" y="2.46"/>
-<vertex x="1.32" y="2.49"/>
-<vertex x="1.3" y="2.52"/>
-<vertex x="1.29" y="2.56"/>
-<vertex x="1.29" y="2.59"/>
-<vertex x="1.29" y="2.62"/>
-<vertex x="1.3" y="2.65"/>
-<vertex x="1.31" y="2.67"/>
-<vertex x="1.33" y="2.7"/>
-<vertex x="1.37" y="2.73"/>
-<vertex x="1.41" y="2.75"/>
-<vertex x="1.46" y="2.76"/>
-<vertex x="1.5" y="2.77"/>
-<vertex x="1.53" y="2.77"/>
-<vertex x="1.56" y="2.77"/>
-<vertex x="1.58" y="2.76"/>
-<vertex x="1.59" y="2.76"/>
-<vertex x="1.58" y="2.77"/>
-<vertex x="1.54" y="2.8"/>
-<vertex x="1.48" y="2.83"/>
-<vertex x="1.4" y="2.87"/>
-<vertex x="1.31" y="2.89"/>
-<vertex x="1.21" y="2.89"/>
-<vertex x="1.1" y="2.87"/>
-<vertex x="0.99" y="2.81"/>
-<vertex x="0.9" y="2.74"/>
-<vertex x="0.85" y="2.66"/>
-<vertex x="0.82" y="2.57"/>
-<vertex x="0.82" y="2.49"/>
-<vertex x="0.84" y="2.4"/>
-<vertex x="0.89" y="2.31"/>
-<vertex x="0.96" y="2.23"/>
-<vertex x="1.04" y="2.14"/>
-<vertex x="1.11" y="2.07"/>
-<vertex x="1.14" y="1.99"/>
-<vertex x="1.14" y="1.92"/>
-<vertex x="1.12" y="1.86"/>
-<vertex x="1.08" y="1.81"/>
-<vertex x="1.02" y="1.77"/>
-<vertex x="0.94" y="1.75"/>
-<vertex x="0.86" y="1.75"/>
-<vertex x="0.81" y="1.76"/>
-<vertex x="0.76" y="1.78"/>
-<vertex x="0.73" y="1.81"/>
-<vertex x="0.7" y="1.84"/>
-<vertex x="0.68" y="1.87"/>
-<vertex x="0.67" y="1.9"/>
-<vertex x="0.67" y="1.94"/>
-<vertex x="0.68" y="1.97"/>
-<vertex x="0.7" y="1.99"/>
-<vertex x="0.72" y="2.01"/>
-<vertex x="0.74" y="2.03"/>
-<vertex x="0.77" y="2.04"/>
-<vertex x="0.79" y="2.05"/>
-<vertex x="0.81" y="2.06"/>
-<vertex x="0.82" y="2.07"/>
-<vertex x="0.8" y="2.08"/>
-<vertex x="0.78" y="2.09"/>
-<vertex x="0.74" y="2.09"/>
-<vertex x="0.7" y="2.09"/>
-<vertex x="0.66" y="2.09"/>
-<vertex x="0.6" y="2.08"/>
-<vertex x="0.55" y="2.07"/>
-<vertex x="0.5" y="2.05"/>
-<vertex x="0.46" y="2.02"/>
-<vertex x="0.41" y="1.98"/>
-<vertex x="0.38" y="1.93"/>
-<vertex x="0.35" y="1.88"/>
-<vertex x="0.33" y="1.81"/>
-<vertex x="0.32" y="1.73"/>
-<vertex x="0.32" y="1.63"/>
-<vertex x="0.32" y="1.47"/>
-<vertex x="0.32" y="1.31"/>
-<vertex x="0.32" y="1.15"/>
-<vertex x="0.32" y="0.99"/>
-<vertex x="0.32" y="0.83"/>
-<vertex x="0.32" y="0.67"/>
-<vertex x="0.32" y="0.51"/>
-<vertex x="0.32" y="0.35"/>
-<vertex x="0.32" y="0.36"/>
-<vertex x="0.34" y="0.38"/>
-<vertex x="0.37" y="0.41"/>
-<vertex x="0.4" y="0.46"/>
-<vertex x="0.45" y="0.51"/>
-<vertex x="0.5" y="0.57"/>
-<vertex x="0.56" y="0.63"/>
-<vertex x="0.62" y="0.69"/>
-<vertex x="0.68" y="0.76"/>
-<vertex x="0.74" y="0.83"/>
-<vertex x="0.79" y="0.88"/>
-<vertex x="0.84" y="0.93"/>
-<vertex x="0.89" y="0.96"/>
-<vertex x="0.94" y="0.99"/>
-<vertex x="1" y="1"/>
-<vertex x="1.07" y="1"/>
-<vertex x="1.19" y="1"/>
-<vertex x="1.31" y="1.02"/>
-<vertex x="1.42" y="1.05"/>
-<vertex x="1.52" y="1.09"/>
-<vertex x="1.62" y="1.15"/>
-<vertex x="1.7" y="1.22"/>
-<vertex x="1.78" y="1.3"/>
-<vertex x="1.85" y="1.39"/>
-<vertex x="1.95" y="1.57"/>
-<vertex x="2" y="1.76"/>
-<vertex x="2.01" y="1.93"/>
-<vertex x="1.98" y="2.09"/>
-<vertex x="1.93" y="2.24"/>
-<vertex x="1.86" y="2.35"/>
-<vertex x="1.78" y="2.44"/>
-<vertex x="1.7" y="2.49"/>
-</polygon>
-<polygon width="0.00508125" layer="29">
-<vertex x="1.7" y="2.49"/>
-<vertex x="1.7" y="2.4"/>
-<vertex x="1.69" y="2.37"/>
-<vertex x="1.68" y="2.35"/>
-<vertex x="1.65" y="2.32"/>
-<vertex x="1.62" y="2.31"/>
-<vertex x="1.59" y="2.31"/>
-<vertex x="1.51" y="2.33"/>
-<vertex x="1.47" y="2.35"/>
-<vertex x="1.44" y="2.37"/>
-<vertex x="1.4" y="2.4"/>
-<vertex x="1.34" y="2.46"/>
-<vertex x="1.3" y="2.52"/>
-<vertex x="1.29" y="2.56"/>
-<vertex x="1.29" y="2.62"/>
-<vertex x="1.3" y="2.65"/>
-<vertex x="1.31" y="2.67"/>
-<vertex x="1.33" y="2.7"/>
-<vertex x="1.37" y="2.73"/>
-<vertex x="1.41" y="2.75"/>
-<vertex x="1.46" y="2.76"/>
-<vertex x="1.5" y="2.77"/>
-<vertex x="1.56" y="2.77"/>
-<vertex x="1.58" y="2.76"/>
-<vertex x="1.59" y="2.76"/>
-<vertex x="1.58" y="2.77"/>
-<vertex x="1.54" y="2.8"/>
-<vertex x="1.4" y="2.87"/>
-<vertex x="1.31" y="2.89"/>
-<vertex x="1.21" y="2.89"/>
-<vertex x="1.1" y="2.87"/>
-<vertex x="0.99" y="2.81"/>
-<vertex x="0.9" y="2.74"/>
-<vertex x="0.85" y="2.66"/>
-<vertex x="0.82" y="2.57"/>
-<vertex x="0.82" y="2.49"/>
-<vertex x="0.84" y="2.4"/>
-<vertex x="0.89" y="2.31"/>
-<vertex x="0.96" y="2.23"/>
-<vertex x="1.04" y="2.14"/>
-<vertex x="1.11" y="2.07"/>
-<vertex x="1.14" y="1.99"/>
-<vertex x="1.14" y="1.92"/>
-<vertex x="1.12" y="1.86"/>
-<vertex x="1.08" y="1.81"/>
-<vertex x="1.02" y="1.77"/>
-<vertex x="0.94" y="1.75"/>
-<vertex x="0.86" y="1.75"/>
-<vertex x="0.81" y="1.76"/>
-<vertex x="0.76" y="1.78"/>
-<vertex x="0.7" y="1.84"/>
-<vertex x="0.68" y="1.87"/>
-<vertex x="0.67" y="1.9"/>
-<vertex x="0.67" y="1.94"/>
-<vertex x="0.68" y="1.97"/>
-<vertex x="0.74" y="2.03"/>
-<vertex x="0.77" y="2.04"/>
-<vertex x="0.81" y="2.06"/>
-<vertex x="0.82" y="2.07"/>
-<vertex x="0.78" y="2.09"/>
-<vertex x="0.66" y="2.09"/>
-<vertex x="0.6" y="2.08"/>
-<vertex x="0.55" y="2.07"/>
-<vertex x="0.5" y="2.05"/>
-<vertex x="0.46" y="2.02"/>
-<vertex x="0.41" y="1.98"/>
-<vertex x="0.35" y="1.88"/>
-<vertex x="0.33" y="1.81"/>
-<vertex x="0.32" y="1.73"/>
-<vertex x="0.32" y="0.35"/>
-<vertex x="0.32" y="0.36"/>
-<vertex x="0.37" y="0.41"/>
-<vertex x="0.4" y="0.46"/>
-<vertex x="0.45" y="0.51"/>
-<vertex x="0.5" y="0.57"/>
-<vertex x="0.62" y="0.69"/>
-<vertex x="0.74" y="0.83"/>
-<vertex x="0.84" y="0.93"/>
-<vertex x="0.94" y="0.99"/>
-<vertex x="1" y="1"/>
-<vertex x="1.19" y="1"/>
-<vertex x="1.31" y="1.02"/>
-<vertex x="1.42" y="1.05"/>
-<vertex x="1.52" y="1.09"/>
-<vertex x="1.62" y="1.15"/>
-<vertex x="1.7" y="1.22"/>
-<vertex x="1.78" y="1.3"/>
-<vertex x="1.85" y="1.39"/>
-<vertex x="1.95" y="1.57"/>
-<vertex x="2" y="1.76"/>
-<vertex x="2.01" y="1.93"/>
-<vertex x="1.98" y="2.09"/>
-<vertex x="1.93" y="2.24"/>
-<vertex x="1.86" y="2.35"/>
-<vertex x="1.78" y="2.44"/>
-</polygon>
-</package>
 <package name="SFE_LOGO_FLAME_COPPER_EXPOSED_.2">
-<polygon width="0.00508125" layer="1">
+<polygon width="0.01" layer="1">
 <vertex x="3.12" y="4.54"/>
 <vertex x="3.12" y="4.53"/>
 <vertex x="3.12" y="4.49"/>
@@ -15895,7 +15798,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="3.28" y="4.45"/>
 <vertex x="3.12" y="4.55"/>
 </polygon>
-<polygon width="0.00508125" layer="29">
+<polygon width="0.01" layer="29">
 <vertex x="3.12" y="4.55"/>
 <vertex x="3.12" y="4.49"/>
 <vertex x="3.13" y="4.44"/>
@@ -16012,7 +15915,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </polygon>
 </package>
 <package name="SFE_LOGO_FLAME_COPPER_EXPOSED_.3">
-<polygon width="0.00508125" layer="1">
+<polygon width="0.01" layer="1">
 <vertex x="4.65" y="6.54"/>
 <vertex x="4.65" y="6.52"/>
 <vertex x="4.66" y="6.47"/>
@@ -16143,7 +16046,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="4.9" y="6.41"/>
 <vertex x="4.64" y="6.55"/>
 </polygon>
-<polygon width="0.00508125" layer="29">
+<polygon width="0.01" layer="29">
 <vertex x="4.65" y="6.54"/>
 <vertex x="4.65" y="6.52"/>
 <vertex x="4.66" y="6.47"/>
@@ -16264,106 +16167,221 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </polygon>
 </package>
 <package name="SFE_LOGO_FLAME_STOP_.1">
-<polygon width="0.00508125" layer="29">
-<vertex x="1.7" y="2.49"/>
-<vertex x="1.7" y="2.4"/>
-<vertex x="1.69" y="2.37"/>
-<vertex x="1.68" y="2.35"/>
-<vertex x="1.65" y="2.32"/>
-<vertex x="1.62" y="2.31"/>
-<vertex x="1.59" y="2.31"/>
-<vertex x="1.51" y="2.33"/>
-<vertex x="1.47" y="2.35"/>
-<vertex x="1.44" y="2.37"/>
-<vertex x="1.4" y="2.4"/>
-<vertex x="1.34" y="2.46"/>
-<vertex x="1.3" y="2.52"/>
-<vertex x="1.29" y="2.56"/>
-<vertex x="1.29" y="2.62"/>
-<vertex x="1.3" y="2.65"/>
-<vertex x="1.31" y="2.67"/>
-<vertex x="1.33" y="2.7"/>
-<vertex x="1.37" y="2.73"/>
-<vertex x="1.41" y="2.75"/>
-<vertex x="1.46" y="2.76"/>
-<vertex x="1.5" y="2.77"/>
-<vertex x="1.56" y="2.77"/>
-<vertex x="1.58" y="2.76"/>
-<vertex x="1.59" y="2.76"/>
-<vertex x="1.58" y="2.77"/>
-<vertex x="1.54" y="2.8"/>
-<vertex x="1.4" y="2.87"/>
-<vertex x="1.31" y="2.89"/>
-<vertex x="1.21" y="2.89"/>
-<vertex x="1.1" y="2.87"/>
-<vertex x="0.99" y="2.81"/>
-<vertex x="0.9" y="2.74"/>
-<vertex x="0.85" y="2.66"/>
-<vertex x="0.82" y="2.57"/>
-<vertex x="0.82" y="2.49"/>
-<vertex x="0.84" y="2.4"/>
-<vertex x="0.89" y="2.31"/>
-<vertex x="0.96" y="2.23"/>
-<vertex x="1.04" y="2.14"/>
-<vertex x="1.11" y="2.07"/>
-<vertex x="1.14" y="1.99"/>
-<vertex x="1.14" y="1.92"/>
-<vertex x="1.12" y="1.86"/>
-<vertex x="1.08" y="1.81"/>
-<vertex x="1.02" y="1.77"/>
-<vertex x="0.94" y="1.75"/>
-<vertex x="0.86" y="1.75"/>
-<vertex x="0.81" y="1.76"/>
-<vertex x="0.76" y="1.78"/>
-<vertex x="0.7" y="1.84"/>
-<vertex x="0.68" y="1.87"/>
-<vertex x="0.67" y="1.9"/>
-<vertex x="0.67" y="1.94"/>
-<vertex x="0.68" y="1.97"/>
-<vertex x="0.74" y="2.03"/>
-<vertex x="0.77" y="2.04"/>
-<vertex x="0.81" y="2.06"/>
-<vertex x="0.82" y="2.07"/>
-<vertex x="0.78" y="2.09"/>
-<vertex x="0.66" y="2.09"/>
-<vertex x="0.6" y="2.08"/>
-<vertex x="0.55" y="2.07"/>
-<vertex x="0.5" y="2.05"/>
-<vertex x="0.46" y="2.02"/>
-<vertex x="0.41" y="1.98"/>
-<vertex x="0.35" y="1.88"/>
-<vertex x="0.33" y="1.81"/>
-<vertex x="0.32" y="1.73"/>
-<vertex x="0.32" y="0.35"/>
-<vertex x="0.32" y="0.36"/>
-<vertex x="0.37" y="0.41"/>
-<vertex x="0.4" y="0.46"/>
-<vertex x="0.45" y="0.51"/>
-<vertex x="0.5" y="0.57"/>
-<vertex x="0.62" y="0.69"/>
-<vertex x="0.74" y="0.83"/>
-<vertex x="0.84" y="0.93"/>
-<vertex x="0.94" y="0.99"/>
-<vertex x="1" y="1"/>
-<vertex x="1.19" y="1"/>
-<vertex x="1.31" y="1.02"/>
-<vertex x="1.42" y="1.05"/>
-<vertex x="1.52" y="1.09"/>
-<vertex x="1.62" y="1.15"/>
-<vertex x="1.7" y="1.22"/>
-<vertex x="1.78" y="1.3"/>
-<vertex x="1.85" y="1.39"/>
-<vertex x="1.95" y="1.57"/>
-<vertex x="2" y="1.76"/>
-<vertex x="2.01" y="1.93"/>
-<vertex x="1.98" y="2.09"/>
-<vertex x="1.93" y="2.24"/>
-<vertex x="1.86" y="2.35"/>
-<vertex x="1.78" y="2.44"/>
+<polygon width="0.01" layer="51">
+<vertex x="1.9" y="2.24"/>
+<vertex x="1.9" y="2.16"/>
+<vertex x="1.88" y="2.1"/>
+<vertex x="1.85" y="2.08"/>
+<vertex x="1.82" y="2.07"/>
+<vertex x="1.75" y="2.07"/>
+<vertex x="1.67" y="2.11"/>
+<vertex x="1.64" y="2.13"/>
+<vertex x="1.6" y="2.16"/>
+<vertex x="1.57" y="2.18"/>
+<vertex x="1.54" y="2.21"/>
+<vertex x="1.52" y="2.25"/>
+<vertex x="1.5" y="2.28"/>
+<vertex x="1.49" y="2.32"/>
+<vertex x="1.48" y="2.35"/>
+<vertex x="1.49" y="2.38"/>
+<vertex x="1.5" y="2.4"/>
+<vertex x="1.51" y="2.43"/>
+<vertex x="1.53" y="2.46"/>
+<vertex x="1.57" y="2.49"/>
+<vertex x="1.61" y="2.51"/>
+<vertex x="1.66" y="2.52"/>
+<vertex x="1.7" y="2.53"/>
+<vertex x="1.73" y="2.53"/>
+<vertex x="1.76" y="2.52"/>
+<vertex x="1.79" y="2.52"/>
+<vertex x="1.78" y="2.53"/>
+<vertex x="1.74" y="2.56"/>
+<vertex x="1.68" y="2.59"/>
+<vertex x="1.6" y="2.62"/>
+<vertex x="1.51" y="2.65"/>
+<vertex x="1.41" y="2.65"/>
+<vertex x="1.3" y="2.63"/>
+<vertex x="1.19" y="2.57"/>
+<vertex x="1.1" y="2.49"/>
+<vertex x="1.05" y="2.42"/>
+<vertex x="1.02" y="2.33"/>
+<vertex x="1.02" y="2.25"/>
+<vertex x="1.04" y="2.16"/>
+<vertex x="1.09" y="2.07"/>
+<vertex x="1.16" y="1.99"/>
+<vertex x="1.24" y="1.9"/>
+<vertex x="1.31" y="1.82"/>
+<vertex x="1.34" y="1.75"/>
+<vertex x="1.34" y="1.68"/>
+<vertex x="1.32" y="1.62"/>
+<vertex x="1.28" y="1.57"/>
+<vertex x="1.22" y="1.53"/>
+<vertex x="1.14" y="1.51"/>
+<vertex x="1.06" y="1.51"/>
+<vertex x="1.01" y="1.52"/>
+<vertex x="0.96" y="1.54"/>
+<vertex x="0.93" y="1.56"/>
+<vertex x="0.9" y="1.59"/>
+<vertex x="0.88" y="1.63"/>
+<vertex x="0.87" y="1.66"/>
+<vertex x="0.87" y="1.69"/>
+<vertex x="0.88" y="1.72"/>
+<vertex x="0.9" y="1.75"/>
+<vertex x="0.94" y="1.79"/>
+<vertex x="0.97" y="1.8"/>
+<vertex x="1.01" y="1.82"/>
+<vertex x="1.02" y="1.83"/>
+<vertex x="1" y="1.84"/>
+<vertex x="0.98" y="1.84"/>
+<vertex x="0.94" y="1.85"/>
+<vertex x="0.86" y="1.85"/>
+<vertex x="0.8" y="1.84"/>
+<vertex x="0.7" y="1.8"/>
+<vertex x="0.66" y="1.77"/>
+<vertex x="0.61" y="1.74"/>
+<vertex x="0.58" y="1.69"/>
+<vertex x="0.55" y="1.63"/>
+<vertex x="0.53" y="1.57"/>
+<vertex x="0.51" y="1.39"/>
+<vertex x="0.51" y="0.11"/>
+<vertex x="0.52" y="0.11"/>
+<vertex x="0.54" y="0.14"/>
+<vertex x="0.57" y="0.17"/>
+<vertex x="0.6" y="0.21"/>
+<vertex x="0.65" y="0.26"/>
+<vertex x="0.7" y="0.32"/>
+<vertex x="0.76" y="0.38"/>
+<vertex x="0.81" y="0.45"/>
+<vertex x="0.94" y="0.58"/>
+<vertex x="0.99" y="0.64"/>
+<vertex x="1.09" y="0.72"/>
+<vertex x="1.14" y="0.75"/>
+<vertex x="1.2" y="0.76"/>
+<vertex x="1.39" y="0.76"/>
+<vertex x="1.51" y="0.78"/>
+<vertex x="1.62" y="0.81"/>
+<vertex x="1.72" y="0.85"/>
+<vertex x="1.82" y="0.91"/>
+<vertex x="1.9" y="0.98"/>
+<vertex x="1.98" y="1.06"/>
+<vertex x="2.05" y="1.15"/>
+<vertex x="2.15" y="1.33"/>
+<vertex x="2.2" y="1.51"/>
+<vertex x="2.21" y="1.69"/>
+<vertex x="2.18" y="1.85"/>
+<vertex x="2.13" y="1.99"/>
+<vertex x="2.06" y="2.11"/>
+<vertex x="1.98" y="2.2"/>
+</polygon>
+<polygon width="0.01" layer="29">
+<vertex x="1.9" y="2.24"/>
+<vertex x="1.9" y="2.16"/>
+<vertex x="1.88" y="2.1"/>
+<vertex x="1.85" y="2.08"/>
+<vertex x="1.82" y="2.07"/>
+<vertex x="1.75" y="2.07"/>
+<vertex x="1.67" y="2.11"/>
+<vertex x="1.64" y="2.13"/>
+<vertex x="1.6" y="2.16"/>
+<vertex x="1.57" y="2.18"/>
+<vertex x="1.54" y="2.21"/>
+<vertex x="1.52" y="2.25"/>
+<vertex x="1.5" y="2.28"/>
+<vertex x="1.49" y="2.32"/>
+<vertex x="1.48" y="2.35"/>
+<vertex x="1.49" y="2.38"/>
+<vertex x="1.5" y="2.4"/>
+<vertex x="1.51" y="2.43"/>
+<vertex x="1.53" y="2.46"/>
+<vertex x="1.57" y="2.49"/>
+<vertex x="1.61" y="2.51"/>
+<vertex x="1.66" y="2.52"/>
+<vertex x="1.7" y="2.53"/>
+<vertex x="1.73" y="2.53"/>
+<vertex x="1.76" y="2.52"/>
+<vertex x="1.79" y="2.52"/>
+<vertex x="1.78" y="2.53"/>
+<vertex x="1.74" y="2.56"/>
+<vertex x="1.68" y="2.59"/>
+<vertex x="1.6" y="2.62"/>
+<vertex x="1.51" y="2.65"/>
+<vertex x="1.41" y="2.65"/>
+<vertex x="1.3" y="2.63"/>
+<vertex x="1.19" y="2.57"/>
+<vertex x="1.1" y="2.49"/>
+<vertex x="1.05" y="2.42"/>
+<vertex x="1.02" y="2.33"/>
+<vertex x="1.02" y="2.25"/>
+<vertex x="1.04" y="2.16"/>
+<vertex x="1.09" y="2.07"/>
+<vertex x="1.16" y="1.99"/>
+<vertex x="1.24" y="1.9"/>
+<vertex x="1.31" y="1.82"/>
+<vertex x="1.34" y="1.75"/>
+<vertex x="1.34" y="1.68"/>
+<vertex x="1.32" y="1.62"/>
+<vertex x="1.28" y="1.57"/>
+<vertex x="1.22" y="1.53"/>
+<vertex x="1.14" y="1.51"/>
+<vertex x="1.06" y="1.51"/>
+<vertex x="1.01" y="1.52"/>
+<vertex x="0.96" y="1.54"/>
+<vertex x="0.93" y="1.56"/>
+<vertex x="0.9" y="1.59"/>
+<vertex x="0.88" y="1.63"/>
+<vertex x="0.87" y="1.66"/>
+<vertex x="0.87" y="1.69"/>
+<vertex x="0.88" y="1.72"/>
+<vertex x="0.9" y="1.75"/>
+<vertex x="0.94" y="1.79"/>
+<vertex x="0.97" y="1.8"/>
+<vertex x="1.01" y="1.82"/>
+<vertex x="1.02" y="1.83"/>
+<vertex x="1" y="1.84"/>
+<vertex x="0.98" y="1.84"/>
+<vertex x="0.94" y="1.85"/>
+<vertex x="0.86" y="1.85"/>
+<vertex x="0.8" y="1.84"/>
+<vertex x="0.7" y="1.8"/>
+<vertex x="0.66" y="1.77"/>
+<vertex x="0.61" y="1.74"/>
+<vertex x="0.58" y="1.69"/>
+<vertex x="0.55" y="1.63"/>
+<vertex x="0.53" y="1.57"/>
+<vertex x="0.51" y="1.39"/>
+<vertex x="0.51" y="0.11"/>
+<vertex x="0.52" y="0.11"/>
+<vertex x="0.54" y="0.14"/>
+<vertex x="0.57" y="0.17"/>
+<vertex x="0.6" y="0.21"/>
+<vertex x="0.65" y="0.26"/>
+<vertex x="0.7" y="0.32"/>
+<vertex x="0.76" y="0.38"/>
+<vertex x="0.81" y="0.45"/>
+<vertex x="0.94" y="0.58"/>
+<vertex x="0.99" y="0.64"/>
+<vertex x="1.09" y="0.72"/>
+<vertex x="1.14" y="0.75"/>
+<vertex x="1.2" y="0.76"/>
+<vertex x="1.39" y="0.76"/>
+<vertex x="1.51" y="0.78"/>
+<vertex x="1.62" y="0.81"/>
+<vertex x="1.72" y="0.85"/>
+<vertex x="1.82" y="0.91"/>
+<vertex x="1.9" y="0.98"/>
+<vertex x="1.98" y="1.06"/>
+<vertex x="2.05" y="1.15"/>
+<vertex x="2.15" y="1.33"/>
+<vertex x="2.2" y="1.51"/>
+<vertex x="2.21" y="1.69"/>
+<vertex x="2.18" y="1.85"/>
+<vertex x="2.13" y="1.99"/>
+<vertex x="2.06" y="2.11"/>
+<vertex x="1.98" y="2.2"/>
 </polygon>
 </package>
 <package name="SFE_LOGO_FLAME_.05">
-<polygon width="0" layer="21">
+<polygon width="0.0254" layer="21">
 <vertex x="1.05" y="1.58"/>
 <vertex x="1.05" y="1.57"/>
 <vertex x="1.05" y="1.56"/>
@@ -17955,7 +17973,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="FRAME-LETTER" prefix="FRAME" uservalue="yes">
+<deviceset name="FRAME-LETTER" prefix="FRAME">
 <description>&lt;b&gt;Schematic Frame&lt;/b&gt;&lt;p&gt;
 Standard 8.5x11 US Letter frame</description>
 <gates>
@@ -17965,10 +17983,7 @@ Standard 8.5x11 US Letter frame</description>
 <devices>
 <device name="" package="CREATIVE_COMMONS">
 <technologies>
-<technology name="">
-<attribute name="DESIGNER" value="NAME" constant="no"/>
-<attribute name="VERSION" value="v01" constant="no"/>
-</technology>
+<technology name=""/>
 </technologies>
 </device>
 <device name="NO_PACKAGE" package="DUMMY">
@@ -18239,11 +18254,19 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="2.398" y1="0.526" x2="2.248" y2="0.676" width="0.0762" layer="51"/>
 <text x="2.585" y="0.516" size="0.3" layer="51" ratio="15" rot="MR0" align="center">X</text>
 <text x="1.42" y="-0.59" size="0.3" layer="51" ratio="15" rot="MR0" align="center">Y</text>
-<text x="2.032" y="-0.254" size="0.3" layer="51" ratio="15" align="center">Z</text>
-<circle x="1.778" y="0.127" radius="0.02828125" width="0.0762" layer="51"/>
+<text x="2.248" y="-0.299" size="0.3" layer="51" ratio="15" align="center">Z</text>
+<circle x="2.058" y="-0.089" radius="0.02828125" width="0.0762" layer="51"/>
+<wire x1="2.254" y1="-0.072" x2="1.894" y2="-0.262" width="0.0762" layer="51" curve="225"/>
+<wire x1="1.894" y1="-0.262" x2="1.754" y2="-0.222" width="0.0762" layer="51"/>
+<wire x1="1.894" y1="-0.262" x2="1.924" y2="-0.142" width="0.0762" layer="51"/>
 <wire x1="1.406" y1="-0.358" x2="1.256" y2="-0.208" width="0.0762" layer="51"/>
 <wire x1="1.406" y1="-0.358" x2="1.556" y2="-0.208" width="0.0762" layer="51"/>
-<circle x="1.778" y="0.127" radius="0.179603125" width="0.0762" layer="51"/>
+<wire x1="1.176" y1="0.152" x2="1.536" y2="0.342" width="0.0762" layer="51" curve="225"/>
+<wire x1="1.536" y1="0.342" x2="1.676" y2="0.302" width="0.0762" layer="51"/>
+<wire x1="1.536" y1="0.342" x2="1.506" y2="0.222" width="0.0762" layer="51"/>
+<wire x1="1.9144" y1="0.3026" x2="2.1044" y2="0.6626" width="0.0762" layer="51" curve="-225"/>
+<wire x1="2.1044" y1="0.6626" x2="2.0644" y2="0.8026" width="0.0762" layer="51"/>
+<wire x1="2.1044" y1="0.6626" x2="1.9844" y2="0.6326" width="0.0762" layer="51"/>
 </package>
 <package name="SOT23-6">
 <wire x1="1.4224" y1="0.4294" x2="1.4224" y2="-0.4294" width="0.2032" layer="21"/>
@@ -18273,8 +18296,8 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <symbol name="LSM303C">
 <pin name="C1" x="-17.78" y="-12.7" length="short"/>
 <pin name="SDA/SDI/SDO" x="-17.78" y="-7.62" length="short"/>
-<pin name="!CS_XL" x="-17.78" y="2.54" length="short"/>
-<pin name="!CS_MAG" x="-17.78" y="-2.54" length="short"/>
+<pin name="CS_XL" x="-17.78" y="2.54" length="short"/>
+<pin name="CS_MAG" x="-17.78" y="-2.54" length="short"/>
 <pin name="GND@1" x="17.78" y="-12.7" length="short" rot="R180"/>
 <pin name="INT_MAG" x="17.78" y="-7.62" length="short" rot="R180"/>
 <pin name="GND@2" x="17.78" y="-2.54" length="short" rot="R180"/>
@@ -18300,9 +18323,9 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <pin name="VCC" x="0" y="10.16" length="short" rot="R270"/>
 <pin name="EN" x="-10.16" y="0" length="short"/>
 <pin name="GND" x="0" y="-10.16" length="short" rot="R90"/>
-<pin name="!F3" x="10.16" y="-5.08" length="short" rot="R180"/>
-<pin name="!F1" x="10.16" y="5.08" length="short" rot="R180"/>
-<pin name="!F2" x="10.16" y="0" length="short" rot="R180"/>
+<pin name="F3" x="10.16" y="-5.08" length="short" rot="R180"/>
+<pin name="F1" x="10.16" y="5.08" length="short" rot="R180"/>
+<pin name="F2" x="10.16" y="0" length="short" rot="R180"/>
 </symbol>
 </symbols>
 <devicesets>
@@ -18316,9 +18339,9 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <devices>
 <device name="" package="LGA-12">
 <connects>
-<connect gate="G$1" pin="!CS_MAG" pad="3"/>
-<connect gate="G$1" pin="!CS_XL" pad="2"/>
 <connect gate="G$1" pin="C1" pad="5"/>
+<connect gate="G$1" pin="CS_MAG" pad="3"/>
+<connect gate="G$1" pin="CS_XL" pad="2"/>
 <connect gate="G$1" pin="DRDY_MAG" pad="11"/>
 <connect gate="G$1" pin="GND@1" pad="6"/>
 <connect gate="G$1" pin="GND@2" pad="8"/>
@@ -18350,6 +18373,8 @@ You are welcome to use this library for commercial purposes. For attribution, we
 &lt;tr&gt;&lt;td&gt;AC&lt;/td&gt;&lt;td&gt;60ms&lt;/td&gt;&lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;AD&lt;/td&gt;&lt;td&gt;120ms&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;&lt;/li&gt;
+&lt;li&gt;The timing sequence of the LM3880 is controlled entirely by the enable (EN) pin. Upon power up, all the flags are held low until this precision enable is pulled high
+&lt;/li&gt;
 &lt;/ul&gt;</description>
 <gates>
 <gate name="G$1" symbol="LM3880/-QI" x="0" y="0"/>
@@ -18357,10 +18382,10 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <devices>
 <device name="" package="SOT23-6">
 <connects>
-<connect gate="G$1" pin="!F1" pad="6"/>
-<connect gate="G$1" pin="!F2" pad="5"/>
-<connect gate="G$1" pin="!F3" pad="4"/>
 <connect gate="G$1" pin="EN" pad="3"/>
+<connect gate="G$1" pin="F1" pad="6"/>
+<connect gate="G$1" pin="F2" pad="5"/>
+<connect gate="G$1" pin="F3" pad="4"/>
 <connect gate="G$1" pin="GND" pad="2"/>
 <connect gate="G$1" pin="VCC" pad="1"/>
 </connects>
@@ -18431,175 +18456,6 @@ Standard decoupling cap</description>
 <technology name="">
 <attribute name="PROD_ID" value="CAP-00810"/>
 <attribute name="VALUE" value="0.1uF" constant="no"/>
-</technology>
-</technologies>
-</device>
-</devices>
-</deviceset>
-</devicesets>
-</library>
-<library name="SparkFun-DiscreteSemi">
-<description>&lt;h3&gt;SparkFun Electronics' preferred foot prints&lt;/h3&gt;
-In this library you'll find discrete semiconductors- transistors, diodes, TRIACs, optoisolators, etc.&lt;br&gt;&lt;br&gt;
-We've spent an enormous amount of time creating and checking these footprints and parts, but it is the end user's responsibility to ensure correctness and suitablity for a given componet or application. If you enjoy using this library, please buy one of our products at www.sparkfun.com.
-&lt;br&gt;&lt;br&gt;
-&lt;b&gt;Licensing:&lt;/b&gt; Creative Commons ShareAlike 4.0 International - https://creativecommons.org/licenses/by-sa/4.0/ 
-&lt;br&gt;&lt;br&gt;
-You are welcome to use this library for commercial purposes. For attribution, we ask that when you begin to sell your device using our footprint, you email us with a link to the product being sold. We want bragging rights that we helped (in a very small part) to create your 8th world wonder. We would like the opportunity to feature your device on our homepage.</description>
-<packages>
-<package name="SOT23-3">
-<wire x1="1.4224" y1="0.6604" x2="1.4224" y2="-0.6604" width="0.1524" layer="51"/>
-<wire x1="1.4224" y1="-0.6604" x2="-1.4224" y2="-0.6604" width="0.1524" layer="51"/>
-<wire x1="-1.4224" y1="-0.6604" x2="-1.4224" y2="0.6604" width="0.1524" layer="51"/>
-<wire x1="-1.4224" y1="0.6604" x2="1.4224" y2="0.6604" width="0.1524" layer="51"/>
-<wire x1="-0.8" y1="0.7" x2="-1.4" y2="0.7" width="0.2032" layer="21"/>
-<wire x1="-1.4" y1="0.7" x2="-1.4" y2="-0.1" width="0.2032" layer="21"/>
-<wire x1="0.8" y1="0.7" x2="1.4" y2="0.7" width="0.2032" layer="21"/>
-<wire x1="1.4" y1="0.7" x2="1.4" y2="-0.1" width="0.2032" layer="21"/>
-<smd name="1" x="-0.95" y="-1" dx="0.8" dy="0.9" layer="1"/>
-<smd name="2" x="0.95" y="-1" dx="0.8" dy="0.9" layer="1"/>
-<smd name="3" x="0" y="1.1" dx="0.8" dy="0.9" layer="1"/>
-<text x="-0.8255" y="1.778" size="0.4064" layer="25">&gt;NAME</text>
-<text x="-1.016" y="-0.1905" size="0.4064" layer="27">&gt;VALUE</text>
-</package>
-<package name="TO220V">
-<description>&lt;b&gt;TO 220 Vertical&lt;/b&gt; Package works with various parts including N-Channel MOSFET SparkFun SKU: COM-10213</description>
-<wire x1="-5.08" y1="2.032" x2="-5.08" y2="-0.381" width="0.2032" layer="21"/>
-<wire x1="5.08" y1="2.032" x2="5.08" y2="-0.381" width="0.2032" layer="21"/>
-<wire x1="5.08" y1="2.032" x2="-5.08" y2="2.032" width="0.2032" layer="21"/>
-<wire x1="-5.08" y1="2.032" x2="-5.08" y2="3.048" width="0.2032" layer="21"/>
-<wire x1="-5.08" y1="3.048" x2="5.08" y2="3.048" width="0.2032" layer="21"/>
-<wire x1="5.08" y1="3.048" x2="5.08" y2="2.032" width="0.2032" layer="21"/>
-<wire x1="-5.08" y1="-0.381" x2="-4.191" y2="-1.27" width="0.2032" layer="21" curve="92.798868"/>
-<wire x1="4.191" y1="-1.27" x2="5.08" y2="-0.381" width="0.2032" layer="21" curve="92.798868"/>
-<wire x1="-4.191" y1="-1.27" x2="-3.81" y2="-1.27" width="0.2032" layer="21"/>
-<wire x1="4.191" y1="-1.27" x2="3.81" y2="-1.27" width="0.2032" layer="21"/>
-<rectangle x1="-5.08" y1="2.032" x2="5.08" y2="3.048" layer="21"/>
-<pad name="1" x="-2.54" y="0" drill="1.016" shape="long" rot="R90"/>
-<pad name="2" x="0" y="0" drill="1.016" shape="long" rot="R90"/>
-<pad name="3" x="2.54" y="0" drill="1.016" shape="long" rot="R90"/>
-<text x="-2.794" y="3.429" size="1.27" layer="25" ratio="10">&gt;NAME</text>
-<text x="-3.302" y="-3.302" size="1.27" layer="27" ratio="10">&gt;VALUE</text>
-</package>
-</packages>
-<symbols>
-<symbol name="MOSFET-PCHANNEL">
-<wire x1="-3.6576" y1="2.413" x2="-3.6576" y2="-2.54" width="0.254" layer="94"/>
-<wire x1="0" y1="1.905" x2="-2.0066" y2="1.905" width="0.1524" layer="94"/>
-<wire x1="0" y1="0" x2="0" y2="-1.905" width="0.1524" layer="94"/>
-<wire x1="-2.032" y1="-1.905" x2="0" y2="-1.905" width="0.1524" layer="94"/>
-<wire x1="0" y1="2.54" x2="0" y2="1.905" width="0.1524" layer="94"/>
-<wire x1="0" y1="1.905" x2="2.54" y2="1.905" width="0.1524" layer="94"/>
-<wire x1="2.54" y1="-1.905" x2="0" y2="-1.905" width="0.1524" layer="94"/>
-<wire x1="0" y1="-1.905" x2="0" y2="-2.54" width="0.1524" layer="94"/>
-<wire x1="2.54" y1="-1.905" x2="2.54" y2="-0.762" width="0.1524" layer="94"/>
-<wire x1="2.54" y1="-0.762" x2="2.54" y2="1.905" width="0.1524" layer="94"/>
-<wire x1="2.54" y1="-0.762" x2="3.175" y2="0.635" width="0.1524" layer="94"/>
-<wire x1="3.175" y1="0.635" x2="1.905" y2="0.635" width="0.1524" layer="94"/>
-<wire x1="1.905" y1="0.635" x2="2.54" y2="-0.762" width="0.1524" layer="94"/>
-<wire x1="3.175" y1="-0.762" x2="2.54" y2="-0.762" width="0.1524" layer="94"/>
-<wire x1="2.54" y1="-0.762" x2="1.905" y2="-0.762" width="0.1524" layer="94"/>
-<wire x1="1.905" y1="-0.762" x2="1.651" y2="-1.016" width="0.1524" layer="94"/>
-<wire x1="3.175" y1="-0.762" x2="3.429" y2="-0.508" width="0.1524" layer="94"/>
-<wire x1="0" y1="0" x2="-1.27" y2="0.508" width="0.1524" layer="94"/>
-<wire x1="-1.27" y1="0.508" x2="-1.27" y2="-0.508" width="0.1524" layer="94"/>
-<wire x1="-1.27" y1="-0.508" x2="0" y2="0" width="0.1524" layer="94"/>
-<wire x1="-1.143" y1="0" x2="-2.032" y2="0" width="0.1524" layer="94"/>
-<wire x1="-1.143" y1="-0.254" x2="-0.254" y2="0" width="0.3048" layer="94"/>
-<wire x1="-0.254" y1="0" x2="-1.143" y2="0.254" width="0.3048" layer="94"/>
-<wire x1="-1.143" y1="0.254" x2="-1.143" y2="0" width="0.3048" layer="94"/>
-<wire x1="-1.143" y1="0" x2="-0.889" y2="0" width="0.3048" layer="94"/>
-<wire x1="-3.81" y1="0" x2="-5.08" y2="0" width="0.1524" layer="94"/>
-<circle x="0" y="-1.905" radius="0.127" width="0.4064" layer="94"/>
-<circle x="0" y="1.905" radius="0.127" width="0.4064" layer="94"/>
-<text x="5.08" y="2.54" size="1.778" layer="95">&gt;NAME</text>
-<text x="5.08" y="0" size="1.778" layer="96">&gt;VALUE</text>
-<text x="-1.27" y="2.54" size="0.8128" layer="93">D</text>
-<text x="-1.27" y="-3.556" size="0.8128" layer="93">S</text>
-<text x="-5.08" y="-1.27" size="0.8128" layer="93">G</text>
-<rectangle x1="-2.794" y1="-2.54" x2="-2.032" y2="-1.27" layer="94"/>
-<rectangle x1="-2.794" y1="1.27" x2="-2.032" y2="2.54" layer="94"/>
-<rectangle x1="-2.794" y1="-0.889" x2="-2.032" y2="0.889" layer="94"/>
-<pin name="G" x="-7.62" y="0" visible="off" length="short" direction="pas"/>
-<pin name="D" x="0" y="5.08" visible="off" length="short" direction="pas" rot="R270"/>
-<pin name="S" x="0" y="-5.08" visible="off" length="short" direction="pas" rot="R90"/>
-</symbol>
-</symbols>
-<devicesets>
-<deviceset name="MOSFET-PCHANNEL" prefix="Q">
-<description>Generic PMOSFET
-
-&lt;ul&gt;
-&lt;li&gt;
-IRLML2244 - TRANS-11153 
-(SOT-23 -20V -4.3A) 
-(1.Gate 2.Source 3.Drain)
-&lt;/li&gt;
-&lt;li&gt;
-FQP27P06 - 
-&lt;a href="http://www.sparkfun.com/products/10349"&gt;COM-10349&lt;/a&gt;
-(TO-220 -60V -27A)
-(1.Gate 2.Source 3.Drain)
-&lt;/li&gt;
-&lt;/ul&gt;</description>
-<gates>
-<gate name="G$1" symbol="MOSFET-PCHANNEL" x="0" y="0"/>
-</gates>
-<devices>
-<device name="SMD" package="SOT23-3">
-<connects>
-<connect gate="G$1" pin="D" pad="3"/>
-<connect gate="G$1" pin="G" pad="1"/>
-<connect gate="G$1" pin="S" pad="2"/>
-</connects>
-<technologies>
-<technology name=""/>
-</technologies>
-</device>
-<device name="IRLML2244" package="SOT23-3">
-<connects>
-<connect gate="G$1" pin="D" pad="3"/>
-<connect gate="G$1" pin="G" pad="1"/>
-<connect gate="G$1" pin="S" pad="2"/>
-</connects>
-<technologies>
-<technology name="">
-<attribute name="PROD_ID" value="TRANS-11153"/>
-</technology>
-</technologies>
-</device>
-<device name="" package="SOT23-3">
-<connects>
-<connect gate="G$1" pin="D" pad="3"/>
-<connect gate="G$1" pin="G" pad="1"/>
-<connect gate="G$1" pin="S" pad="2"/>
-</connects>
-<technologies>
-<technology name="">
-<attribute name="PROD_ID" value="TRANS-08285" constant="no"/>
-</technology>
-</technologies>
-</device>
-<device name="FQP27P06" package="TO220V">
-<connects>
-<connect gate="G$1" pin="D" pad="2"/>
-<connect gate="G$1" pin="G" pad="1"/>
-<connect gate="G$1" pin="S" pad="3"/>
-</connects>
-<technologies>
-<technology name=""/>
-</technologies>
-</device>
-<device name="DMG2307L" package="SOT23-3">
-<connects>
-<connect gate="G$1" pin="D" pad="3"/>
-<connect gate="G$1" pin="G" pad="1"/>
-<connect gate="G$1" pin="S" pad="2"/>
-</connects>
-<technologies>
-<technology name="">
-<attribute name="PROD_ID" value="TRANS-11308"/>
-<attribute name="VALUE" value="2.5A/30V"/>
 </technology>
 </technologies>
 </device>
@@ -20492,7 +20348,7 @@ This is the mechanical footprint for a #4 phillips button head screw. Use the ke
 </libraries>
 <attributes>
 <attribute name="DESIGNER" value="Brent Wilkins"/>
-<attribute name="VERSION" value="v01"/>
+<attribute name="VERSION" value="v02"/>
 </attributes>
 <variantdefs>
 </variantdefs>
@@ -20516,17 +20372,14 @@ This is the mechanical footprint for a #4 phillips button head screw. Use the ke
 <part name="FID2" library="SparkFun" deviceset="FIDUCIAL" device="1X2"/>
 <part name="FID1" library="SparkFun" deviceset="FIDUCIAL" device="1X2"/>
 <part name="U$8" library="SparkFun" deviceset="OSHW-LOGO" device="S"/>
-<part name="FRAME1" library="SparkFun-Aesthetics" deviceset="FRAME-LETTER" device="">
-<attribute name="DESIGNER" value="Brent Wilkins"/>
-</part>
+<part name="FRAME1" library="SparkFun-Aesthetics" deviceset="FRAME-LETTER" device=""/>
 <part name="U1" library="SparkFun-DigitalIC" deviceset="LSM303C" device="">
 <attribute name="PROD_ID" value="IC-12557"/>
 </part>
 <part name="C4" library="SparkFun-Capacitors" deviceset="0.1UF-25V(+80/-20%)(0603)" device="" value="0.1uF"/>
 <part name="GND15" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
 <part name="GND13" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
-<part name="Q1" library="SparkFun-DiscreteSemi" deviceset="MOSFET-PCHANNEL" device="DMG2307L" value="2.5A/30V"/>
-<part name="R1" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="100k">
+<part name="R1" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="68">
 <attribute name="PROD_ID" value="RES-07828"/>
 </part>
 <part name="U2" library="SparkFun-DigitalIC" deviceset="LM3880/-QI" device="" value="LM3880">
@@ -20535,12 +20388,8 @@ This is the mechanical footprint for a #4 phillips button head screw. Use the ke
 <part name="GND14" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
 <part name="C3" library="SparkFun-Capacitors" deviceset="0.1UF-25V(+80/-20%)(0603)" device="" value="0.1uF"/>
 <part name="GND16" library="SparkFun" deviceset="GND" device=""/>
-<part name="GND17" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
-<part name="GND18" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
 <part name="R3" library="SparkFun-Resistors" deviceset="10KOHM-1/10W-1%(0603)" device="0603" value="10K"/>
 <part name="R4" library="SparkFun-Resistors" deviceset="10KOHM-1/10W-1%(0603)" device="0603" value="10K"/>
-<part name="SJ2" library="SparkFun-Passives" deviceset="JUMPER-PAD-2-NC_BY_TRACE" device=""/>
-<part name="SJ3" library="SparkFun-Passives" deviceset="JUMPER-PAD-2-NC_BY_TRACE" device=""/>
 <part name="JP2" library="SparkFun-Connectors" deviceset="M06" device="SILK_FEMALE_PTH"/>
 <part name="LOGO1" library="SparkFun-Aesthetics" deviceset="SFE_LOGO_NAME" device=".1_INCH" value="SFE_LOGO_NAME.1_INCH"/>
 <part name="LOGO2" library="SparkFun-Aesthetics" deviceset="SFE_LOGO_FLAME" device=".1EXP"/>
@@ -20558,10 +20407,7 @@ This is the mechanical footprint for a #4 phillips button head screw. Use the ke
 <text x="193.04" y="139.7" size="1.27" layer="97">2 ms DELAY ON VDD</text>
 <text x="187.96" y="88.9" size="1.27" layer="97" font="vector">Place as close as possible
 to pin 9 on LSM303C</text>
-<text x="35.56" y="27.94" size="1.778" layer="97" font="vector">CS_XL | CS_MAG
-1: SPI idle mode / I2C communication enabled
-0: SPI communication mode / I2C disabled</text>
-<text x="35.56" y="17.78" size="1.778" layer="97" font="vector">I2C:
+<text x="35.56" y="27.94" size="1.778" layer="97" font="vector">I2C:
   XL slave address:  0x1D
   MAG slage address: 0x1E</text>
 <text x="55.88" y="99.06" size="5.08" layer="97" font="vector" align="center">SETTING JUMPERS</text>
@@ -20580,14 +20426,13 @@ POWER SEQUENCER</text>
 <text x="124.46" y="114.3" size="1.778" layer="97" font="vector">Each output adds a 2ms delay (AE).  Using flag 1 to delay VDD 2ms from VDD_IO.</text>
 <text x="171.45" y="13.97" size="3.81" layer="94" font="vector" align="top-left">&gt;DESIGNER</text>
 <text x="236.22" y="6.858" size="3.81" layer="94" font="vector">&gt;VERSION</text>
-<text x="203.2" y="162.56" size="1.778" layer="97">V_SD = -0.75V</text>
 <text x="1.524" y="52.07" size="1.778" layer="97" font="vector" align="top-left">If using a single
 voltage &gt;= 2.65V to
 power this board
 one may short this
 jumper.
 </text>
-<text x="35.56" y="10.16" size="1.778" layer="97" font="vector">Jumpers are defaulted to I2C
+<text x="35.56" y="20.32" size="1.778" layer="97" font="vector">Jumpers are defaulted to I2C
 configuration.  Cut them to use SPI</text>
 <text x="134.62" y="157.48" size="1.9304" layer="97">VCC = 2.65V to 4.3V</text>
 </plain>
@@ -20615,9 +20460,6 @@ configuration.  Cut them to use SPI</text>
 <instance part="C4" gate="G$1" x="40.64" y="129.54" rot="R180"/>
 <instance part="GND15" gate="1" x="40.64" y="119.38"/>
 <instance part="GND13" gate="1" x="81.28" y="129.54"/>
-<instance part="Q1" gate="G$1" x="213.36" y="157.48" smashed="yes" rot="MR90">
-<attribute name="NAME" x="215.9" y="152.4" size="1.778" layer="95" rot="MR180"/>
-</instance>
 <instance part="R1" gate="G$1" x="195.58" y="149.86" rot="R270">
 <attribute name="PROD_ID" x="195.58" y="149.86" size="1.778" layer="96" rot="R270" display="off"/>
 </instance>
@@ -20628,16 +20470,8 @@ configuration.  Cut them to use SPI</text>
 <instance part="GND14" gate="1" x="182.88" y="121.92"/>
 <instance part="C3" gate="G$1" x="233.68" y="73.66"/>
 <instance part="GND16" gate="1" x="233.68" y="66.04"/>
-<instance part="GND17" gate="1" x="66.04" y="48.26"/>
-<instance part="GND18" gate="1" x="83.82" y="48.26"/>
-<instance part="R3" gate="G$1" x="66.04" y="58.42" rot="R270"/>
-<instance part="R4" gate="G$1" x="83.82" y="58.42" rot="R270"/>
-<instance part="SJ2" gate="G$1" x="66.04" y="73.66" smashed="yes" rot="R270">
-<attribute name="NAME" x="68.58" y="76.2" size="1.778" layer="95" rot="R270"/>
-</instance>
-<instance part="SJ3" gate="G$1" x="83.82" y="73.66" smashed="yes" rot="R270">
-<attribute name="NAME" x="86.36" y="76.2" size="1.778" layer="95" rot="R270"/>
-</instance>
+<instance part="R3" gate="G$1" x="66.04" y="73.66" rot="R270"/>
+<instance part="R4" gate="G$1" x="83.82" y="73.66" rot="R270"/>
 <instance part="JP2" gate="G$1" x="149.86" y="73.66"/>
 <instance part="LOGO1" gate="G$1" x="121.92" y="33.02"/>
 <instance part="LOGO2" gate="G$1" x="154.94" y="45.72"/>
@@ -20649,9 +20483,9 @@ configuration.  Cut them to use SPI</text>
 <instance part="SJ4" gate="G$1" x="17.78" y="66.04" smashed="yes" rot="R270">
 <attribute name="NAME" x="20.32" y="68.58" size="1.778" layer="95" rot="R270"/>
 </instance>
-<instance part="TP1" gate="G$1" x="226.06" y="152.4" smashed="yes">
-<attribute name="NAME" x="231.14" y="152.4" size="1.778" layer="95"/>
-<attribute name="VALUE" x="228.6" y="149.86" size="1.778" layer="96"/>
+<instance part="TP1" gate="G$1" x="215.9" y="137.16" smashed="yes">
+<attribute name="NAME" x="220.98" y="137.16" size="1.778" layer="95"/>
+<attribute name="VALUE" x="218.44" y="134.62" size="1.778" layer="96"/>
 </instance>
 <instance part="STANDOFF1" gate="G$1" x="236.22" y="25.4"/>
 <instance part="STANDOFF2" gate="G$1" x="236.22" y="33.02"/>
@@ -20697,19 +20531,9 @@ configuration.  Cut them to use SPI</text>
 <label x="81.28" y="144.78" size="1.27" layer="95" xref="yes"/>
 </segment>
 <segment>
-<pinref part="R3" gate="G$1" pin="2"/>
-<pinref part="GND17" gate="1" pin="GND"/>
-<wire x1="66.04" y1="50.8" x2="66.04" y2="53.34" width="0.1524" layer="91"/>
-</segment>
-<segment>
 <pinref part="JP1" gate="G$1" pin="1"/>
 <wire x1="129.54" y1="78.74" x2="127" y2="78.74" width="0.1524" layer="91"/>
 <label x="127" y="78.74" size="1.27" layer="95" font="vector" rot="R180" xref="yes"/>
-</segment>
-<segment>
-<pinref part="GND18" gate="1" pin="GND"/>
-<pinref part="R4" gate="G$1" pin="2"/>
-<wire x1="83.82" y1="53.34" x2="83.82" y2="50.8" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="VCC" class="0">
@@ -20722,14 +20546,10 @@ configuration.  Cut them to use SPI</text>
 <wire x1="170.18" y1="137.16" x2="172.72" y2="137.16" width="0.1524" layer="91"/>
 <wire x1="170.18" y1="157.48" x2="182.88" y2="157.48" width="0.1524" layer="91"/>
 <pinref part="U2" gate="G$1" pin="VCC"/>
-<pinref part="Q1" gate="G$1" pin="S"/>
 <wire x1="182.88" y1="157.48" x2="195.58" y2="157.48" width="0.1524" layer="91"/>
-<wire x1="195.58" y1="157.48" x2="208.28" y2="157.48" width="0.1524" layer="91"/>
 <wire x1="182.88" y1="157.48" x2="182.88" y2="147.32" width="0.1524" layer="91"/>
 <wire x1="170.18" y1="157.48" x2="170.18" y2="160.02" width="0.1524" layer="91"/>
 <pinref part="SUPPLY2" gate="G$1" pin="VCC"/>
-<junction x="195.58" y="157.48"/>
-<junction x="195.58" y="157.48"/>
 <junction x="170.18" y="157.48"/>
 </segment>
 <segment>
@@ -20753,14 +20573,17 @@ configuration.  Cut them to use SPI</text>
 </net>
 <net name="VDD" class="0">
 <segment>
-<pinref part="Q1" gate="G$1" pin="D"/>
-<wire x1="218.44" y1="157.48" x2="220.98" y2="157.48" width="0.1524" layer="91"/>
-<label x="226.06" y="157.48" size="1.27" layer="95" xref="yes"/>
+<label x="220.98" y="142.24" size="1.27" layer="95" xref="yes"/>
 <pinref part="TP1" gate="G$1" pin="1"/>
-<wire x1="220.98" y1="157.48" x2="226.06" y2="157.48" width="0.1524" layer="91"/>
-<wire x1="226.06" y1="152.4" x2="220.98" y2="152.4" width="0.1524" layer="91"/>
-<wire x1="220.98" y1="152.4" x2="220.98" y2="157.48" width="0.1524" layer="91"/>
-<junction x="220.98" y="157.48"/>
+<wire x1="215.9" y1="137.16" x2="215.9" y2="142.24" width="0.1524" layer="91"/>
+<pinref part="R1" gate="G$1" pin="2"/>
+<wire x1="195.58" y1="142.24" x2="195.58" y2="144.78" width="0.1524" layer="91"/>
+<junction x="195.58" y="142.24"/>
+<pinref part="U2" gate="G$1" pin="F1"/>
+<wire x1="215.9" y1="142.24" x2="195.58" y2="142.24" width="0.1524" layer="91"/>
+<wire x1="195.58" y1="142.24" x2="193.04" y2="142.24" width="0.1524" layer="91"/>
+<wire x1="220.98" y1="142.24" x2="215.9" y2="142.24" width="0.1524" layer="91"/>
+<junction x="215.9" y="142.24"/>
 </segment>
 <segment>
 <pinref part="U1" gate="G$1" pin="VDD"/>
@@ -20778,18 +20601,6 @@ configuration.  Cut them to use SPI</text>
 <label x="213.36" y="81.28" size="1.27" layer="95" rot="R90" xref="yes"/>
 </segment>
 </net>
-<net name="N$3" class="0">
-<segment>
-<pinref part="R1" gate="G$1" pin="2"/>
-<pinref part="Q1" gate="G$1" pin="G"/>
-<wire x1="195.58" y1="142.24" x2="195.58" y2="144.78" width="0.1524" layer="91"/>
-<wire x1="213.36" y1="149.86" x2="213.36" y2="142.24" width="0.1524" layer="91"/>
-<wire x1="213.36" y1="142.24" x2="195.58" y2="142.24" width="0.1524" layer="91"/>
-<junction x="195.58" y="142.24"/>
-<pinref part="U2" gate="G$1" pin="!F1"/>
-<wire x1="195.58" y1="142.24" x2="193.04" y2="142.24" width="0.1524" layer="91"/>
-</segment>
-</net>
 <net name="VDD_IO" class="0">
 <segment>
 <wire x1="233.68" y1="81.28" x2="233.68" y2="78.74" width="0.1524" layer="91"/>
@@ -20803,13 +20614,13 @@ configuration.  Cut them to use SPI</text>
 </segment>
 <segment>
 <label x="66.04" y="81.28" size="1.27" layer="95" rot="R90" xref="yes"/>
-<pinref part="SJ2" gate="G$1" pin="1"/>
 <wire x1="66.04" y1="81.28" x2="66.04" y2="78.74" width="0.1524" layer="91"/>
+<pinref part="R3" gate="G$1" pin="1"/>
 </segment>
 <segment>
 <label x="83.82" y="81.28" size="1.27" layer="95" rot="R90" xref="yes"/>
-<pinref part="SJ3" gate="G$1" pin="1"/>
 <wire x1="83.82" y1="78.74" x2="83.82" y2="81.28" width="0.1524" layer="91"/>
+<pinref part="R4" gate="G$1" pin="1"/>
 </segment>
 <segment>
 <wire x1="45.72" y1="78.74" x2="45.72" y2="81.28" width="0.1524" layer="91"/>
@@ -20829,18 +20640,15 @@ configuration.  Cut them to use SPI</text>
 </net>
 <net name="!CS_XL" class="0">
 <segment>
-<pinref part="U1" gate="G$1" pin="!CS_XL"/>
+<pinref part="U1" gate="G$1" pin="CS_XL"/>
 <wire x1="43.18" y1="149.86" x2="40.64" y2="149.86" width="0.1524" layer="91"/>
 <label x="40.64" y="149.86" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
 <label x="68.58" y="66.04" size="1.27" layer="95" xref="yes"/>
-<pinref part="R3" gate="G$1" pin="1"/>
-<pinref part="SJ2" gate="G$1" pin="2"/>
-<wire x1="66.04" y1="63.5" x2="66.04" y2="66.04" width="0.1524" layer="91"/>
 <wire x1="66.04" y1="66.04" x2="66.04" y2="68.58" width="0.1524" layer="91"/>
 <wire x1="68.58" y1="66.04" x2="66.04" y2="66.04" width="0.1524" layer="91"/>
-<junction x="66.04" y="66.04"/>
+<pinref part="R3" gate="G$1" pin="2"/>
 </segment>
 <segment>
 <wire x1="154.94" y1="73.66" x2="157.48" y2="73.66" width="0.1524" layer="91"/>
@@ -20862,18 +20670,15 @@ configuration.  Cut them to use SPI</text>
 </net>
 <net name="!CS_MAG" class="0">
 <segment>
-<pinref part="U1" gate="G$1" pin="!CS_MAG"/>
+<pinref part="U1" gate="G$1" pin="CS_MAG"/>
 <wire x1="43.18" y1="144.78" x2="40.64" y2="144.78" width="0.1524" layer="91"/>
 <label x="40.64" y="144.78" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
 <wire x1="83.82" y1="66.04" x2="86.36" y2="66.04" width="0.1524" layer="91"/>
 <label x="86.36" y="66.04" size="1.27" layer="95" xref="yes"/>
-<pinref part="SJ3" gate="G$1" pin="2"/>
-<pinref part="R4" gate="G$1" pin="1"/>
-<wire x1="83.82" y1="63.5" x2="83.82" y2="66.04" width="0.1524" layer="91"/>
-<junction x="83.82" y="66.04"/>
 <wire x1="83.82" y1="66.04" x2="83.82" y2="68.58" width="0.1524" layer="91"/>
+<pinref part="R4" gate="G$1" pin="2"/>
 </segment>
 <segment>
 <wire x1="154.94" y1="78.74" x2="157.48" y2="78.74" width="0.1524" layer="91"/>
