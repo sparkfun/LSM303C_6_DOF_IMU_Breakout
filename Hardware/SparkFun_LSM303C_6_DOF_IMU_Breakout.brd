@@ -2196,10 +2196,7 @@ design rules under a new name.</description>
 <via x="6.604" y="8.128" extent="1-16" drill="0.508"/>
 <wire x1="6.604" y1="8.128" x2="6.858" y2="8.382" width="0.254" layer="16"/>
 <wire x1="6.858" y1="8.382" x2="7.6708" y2="8.382" width="0.254" layer="16"/>
-<wire x1="7.6708" y1="8.382" x2="8.89" y2="7.1628" width="0.254" layer="16"/>
-<wire x1="8.89" y1="7.1628" x2="8.89" y2="6.858" width="0.254" layer="16"/>
-<wire x1="8.89" y1="6.858" x2="10.668" y2="5.08" width="0.254" layer="16"/>
-<wire x1="10.668" y1="5.08" x2="12.192" y2="5.08" width="0.254" layer="16"/>
+<wire x1="10.9728" y1="5.08" x2="12.192" y2="5.08" width="0.254" layer="16"/>
 <wire x1="12.192" y1="5.08" x2="13.462" y2="3.81" width="0.254" layer="16"/>
 <wire x1="13.462" y1="3.81" x2="22.606" y2="3.81" width="0.254" layer="16"/>
 <wire x1="6.604" y1="8.128" x2="3.976" y2="8.128" width="0.254" layer="1"/>
@@ -2211,6 +2208,7 @@ design rules under a new name.</description>
 <wire x1="6.604" y1="8.128" x2="7.29560625" y2="8.81960625" width="0.254" layer="1"/>
 <wire x1="7.29560625" y1="8.81960625" x2="7.475209375" y2="8.894" width="0.254" layer="1" curve="-44.999295"/>
 <wire x1="7.475209375" y1="8.894" x2="8.14" y2="8.894" width="0.254" layer="1"/>
+<wire x1="7.6708" y1="8.382" x2="10.9728" y2="5.08" width="0.254" layer="16"/>
 </signal>
 <signal name="DRDY_MAG">
 <contactref element="U1" pad="11"/>
