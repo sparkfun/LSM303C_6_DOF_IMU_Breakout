@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="7.3.0">
+<eagle version="7.2.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="yes"/>
@@ -20483,9 +20483,9 @@ configuration.  Cut them to use SPI</text>
 <instance part="SJ4" gate="G$1" x="17.78" y="66.04" smashed="yes" rot="R270">
 <attribute name="NAME" x="20.32" y="68.58" size="1.778" layer="95" rot="R270"/>
 </instance>
-<instance part="TP1" gate="G$1" x="215.9" y="137.16" smashed="yes">
-<attribute name="NAME" x="220.98" y="137.16" size="1.778" layer="95"/>
-<attribute name="VALUE" x="218.44" y="134.62" size="1.778" layer="96"/>
+<instance part="TP1" gate="G$1" x="218.44" y="137.16" smashed="yes">
+<attribute name="NAME" x="223.52" y="137.16" size="1.778" layer="95"/>
+<attribute name="VALUE" x="220.98" y="134.62" size="1.778" layer="96"/>
 </instance>
 <instance part="STANDOFF1" gate="G$1" x="236.22" y="25.4"/>
 <instance part="STANDOFF2" gate="G$1" x="236.22" y="33.02"/>
@@ -20575,6 +20575,7 @@ configuration.  Cut them to use SPI</text>
 <segment>
 <label x="220.98" y="142.24" size="1.27" layer="95" xref="yes"/>
 <pinref part="TP1" gate="G$1" pin="1"/>
+<wire x1="218.44" y1="137.16" x2="215.9" y2="137.16" width="0.1524" layer="91"/>
 <wire x1="215.9" y1="137.16" x2="215.9" y2="142.24" width="0.1524" layer="91"/>
 <pinref part="R1" gate="G$1" pin="2"/>
 <wire x1="195.58" y1="142.24" x2="195.58" y2="144.78" width="0.1524" layer="91"/>
