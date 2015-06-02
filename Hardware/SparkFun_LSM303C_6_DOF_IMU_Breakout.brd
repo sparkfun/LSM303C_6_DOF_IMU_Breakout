@@ -2157,9 +2157,9 @@ design rules under a new name.</description>
 <wire x1="6.354" y1="9.394" x2="8.14" y2="9.394" width="0.254" layer="1"/>
 <wire x1="22.606" y1="8.89" x2="19.304" y2="8.89" width="0.254" layer="16"/>
 <wire x1="19.304" y1="8.89" x2="17.78" y2="10.414" width="0.254" layer="16"/>
-<wire x1="17.78" y1="10.414" x2="11.43" y2="10.414" width="0.254" layer="16"/>
-<wire x1="11.43" y1="10.414" x2="10.414" y2="9.398" width="0.254" layer="16"/>
-<wire x1="10.414" y1="9.398" x2="6.358" y2="9.398" width="0.254" layer="16"/>
+<wire x1="17.78" y1="10.414" x2="7.9248" y2="10.414" width="0.254" layer="16"/>
+<wire x1="7.9248" y1="10.414" x2="6.9088" y2="9.398" width="0.254" layer="16"/>
+<wire x1="6.9088" y1="9.398" x2="6.358" y2="9.398" width="0.254" layer="16"/>
 <wire x1="6.358" y1="9.398" x2="6.354" y2="9.394" width="0.254" layer="16"/>
 <via x="6.354" y="9.394" extent="1-16" drill="0.508"/>
 <contactref element="R3" pad="2"/>
@@ -2412,13 +2412,13 @@ design rules under a new name.</description>
 <approved hash="5,16,df9a0ef9c58fb390"/>
 <approved hash="5,16,d1b8e25abefdccd0"/>
 <approved hash="5,16,ed1eee8493e84285"/>
-<approved hash="19,16,740f18afb7bb29f3"/>
 <approved hash="5,16,ed1eea8c97d042b5"/>
 <approved hash="19,16,ce4648c7d53aa153"/>
 <approved hash="19,16,70bc1814b0eb2aab"/>
+<approved hash="19,16,740f18afb7bb29f3"/>
 <approved hash="19,16,cf7e4df7d082a0e3"/>
-<approved hash="19,16,68ba81c8bdba60d8"/>
 <approved hash="19,16,f820b7428b33f041"/>
+<approved hash="19,16,68ba81c8bdba60d8"/>
 </errors>
 </board>
 </drawing>
