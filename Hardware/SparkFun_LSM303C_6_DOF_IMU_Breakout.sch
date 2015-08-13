@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="7.2.0">
+<eagle version="7.3.2">
 <drawing>
 <settings>
 <setting alwaysvectorfont="yes"/>
@@ -20396,7 +20396,7 @@ This is the mechanical footprint for a #4 phillips button head screw. Use the ke
 <part name="JP1" library="SparkFun-Connectors" deviceset="I2C_STANDARD" device=""/>
 <part name="SUPPLY2" library="SparkFun-Aesthetics" deviceset="VCC" device=""/>
 <part name="SJ1" library="SparkFun-Passives" deviceset="JUMPER-PAD-3-NC_BY_TRACE" device=""/>
-<part name="SJ4" library="SparkFun-Passives" deviceset="JUMPER-PAD-2-NC_BY_TRACE" device=""/>
+<part name="SJ2" library="SparkFun-Passives" deviceset="JUMPER-PAD-2-NC_BY_TRACE" device=""/>
 <part name="TP1" library="SparkFun-Passives" deviceset="TEST-POINT" device="TP_15TH_THRU" value="VDD_TP"/>
 <part name="STANDOFF1" library="SparkFun-Electromechanical" deviceset="STAND-OFF" device=""/>
 <part name="STANDOFF2" library="SparkFun-Electromechanical" deviceset="STAND-OFF" device=""/>
@@ -20480,7 +20480,7 @@ configuration.  Cut them to use SPI</text>
 <instance part="SJ1" gate="G$1" x="45.72" y="73.66" smashed="yes" rot="R270">
 <attribute name="NAME" x="46.101" y="71.12" size="1.778" layer="95" rot="R270"/>
 </instance>
-<instance part="SJ4" gate="G$1" x="17.78" y="66.04" smashed="yes" rot="R270">
+<instance part="SJ2" gate="G$1" x="17.78" y="66.04" smashed="yes" rot="R270">
 <attribute name="NAME" x="20.32" y="68.58" size="1.778" layer="95" rot="R270"/>
 </instance>
 <instance part="TP1" gate="G$1" x="218.44" y="137.16" smashed="yes">
@@ -20559,7 +20559,7 @@ configuration.  Cut them to use SPI</text>
 </segment>
 <segment>
 <wire x1="17.78" y1="58.42" x2="17.78" y2="60.96" width="0.1524" layer="91"/>
-<pinref part="SJ4" gate="G$1" pin="2"/>
+<pinref part="SJ2" gate="G$1" pin="2"/>
 <label x="17.78" y="58.42" size="1.27" layer="95" rot="R270" xref="yes"/>
 </segment>
 </net>
@@ -20635,7 +20635,7 @@ configuration.  Cut them to use SPI</text>
 </segment>
 <segment>
 <wire x1="17.78" y1="71.12" x2="17.78" y2="73.66" width="0.1524" layer="91"/>
-<pinref part="SJ4" gate="G$1" pin="1"/>
+<pinref part="SJ2" gate="G$1" pin="1"/>
 <label x="17.78" y="73.66" size="1.27" layer="95" rot="R90" xref="yes"/>
 </segment>
 </net>
