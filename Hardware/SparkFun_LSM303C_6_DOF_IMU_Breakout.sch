@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="7.3.2">
+<eagle version="7.4.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="yes"/>
@@ -20409,8 +20409,8 @@ This is the mechanical footprint for a #4 phillips button head screw. Use the ke
 to pin 9 on LSM303C</text>
 <text x="35.56" y="27.94" size="1.778" layer="97" font="vector">I2C:
   XL slave address:  0x1D
-  MAG slage address: 0x1E</text>
-<text x="55.88" y="99.06" size="5.08" layer="97" font="vector" align="center">SETTING JUMPERS</text>
+  MAG slave address: 0x1E</text>
+<text x="55.88" y="99.06" size="5.08" layer="97" font="vector" align="center">JUMPERS &amp; PULL-UPS</text>
 <text x="144.78" y="99.06" size="5.08" layer="97" font="vector" align="center">HEADERS</text>
 <text x="218.44" y="99.06" size="5.08" layer="97" font="vector" align="center">BYPASS</text>
 <text x="177.8" y="175.26" size="5.08" layer="97" font="vector" align="center">MULTI RAIL
@@ -20426,14 +20426,14 @@ POWER SEQUENCER</text>
 <text x="124.46" y="114.3" size="1.778" layer="97" font="vector">Each output adds a 2ms delay (AE).  Using flag 1 to delay VDD 2ms from VDD_IO.</text>
 <text x="171.45" y="13.97" size="3.81" layer="94" font="vector" align="top-left">&gt;DESIGNER</text>
 <text x="236.22" y="6.858" size="3.81" layer="94" font="vector">&gt;VERSION</text>
-<text x="1.524" y="52.07" size="1.778" layer="97" font="vector" align="top-left">If using a single
-voltage &gt;= 2.65V to
-power this board
-one may short this
-jumper.
-</text>
-<text x="35.56" y="20.32" size="1.778" layer="97" font="vector">Jumpers are defaulted to I2C
-configuration.  Cut them to use SPI</text>
+<text x="1.524" y="52.07" size="1.778" layer="97" font="vector" align="top-left">Cut this jumper if
+using a Vdd_IO less
+than Vdd.</text>
+<text x="35.56" y="25.4" size="1.778" layer="97" font="vector" align="top-left">Jumpers are connected by
+default and used by both I2C
+and SPI.  They may be cut to
+tune an I2C bus when multiple
+devices are being used.</text>
 <text x="134.62" y="157.48" size="1.9304" layer="97">VCC = 2.65V to 4.3V</text>
 </plain>
 <instances>
