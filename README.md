@@ -1,34 +1,27 @@
 # SparkFun LSM303C 6 DOF IMU Breakout
 ========================================
 
-[![LSM303C Breakout](URL for picture of part)
-*Part Name (SKU)*](URL for product on Sparkfun.com)
+[![LSM303C Breakout](https://cdn.sparkfun.com/r/188-188/assets/parts/1/0/5/6/4/13303-01.jpg)
+*BOB-13303*](https://www.sparkfun.com/products/13303)
 
 The LSM303C is a triple axis accelerometer and triple axis magnetic sensor, providing 6D of orientation detection.
 
-More information can be found on the Wiki for this repo. 
-
-This part was created in Eagle v7.2.0.
+This part was created in Eagle v7.4.0
 
 Repository Contents
 -------------------
 
-* **/Fritzing** - Fritzing Example wiring images
 * **/Hardware** - All Eagle design files (.brd, .sch)
 * **/Libraries** - All Arduino libraries and board examples
 * **/Production** - Test bed files and production panel files
-* **[Wiki](URL for GitHub Wiki) - Wiki with examples or helpful information for product
 
 Product Versions
 ----------------
-* [Part SKU](part URL)- Basic part and short description here
-* [Retail part SKU] (retail URL)- Retail packaging of standard description here
-* [Any other parts this repo covers](any other URLs) - Description of said parts
+* [BOB-13303](https://www.sparkfun.com/products/13303)- LSM303C based 6 DOF IMU beakout board
 
 Version History
 ---------------
-* [vExxFxxZxxHxxLxxSxx](URL for tag specific to this version) description 
-* [vEyyFyyZyyHyyLyySyy](URL for tag specific to this version) description
+* [v10](https://github.com/sparkfun/LSM303C_6_DOF_IMU_Breakout) First (hopefully ony) product release.  v10 is SFE code for version 1.0
 
 License Information
 -------------------
