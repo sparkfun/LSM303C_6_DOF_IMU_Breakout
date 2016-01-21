@@ -17,8 +17,8 @@ Repository Contents
 
 Documentation
 --------------
-* **[Library](https://github.com/sparkfun/SparkFun_LSM303C_6_DOF_IMU_Breakout_Arduino_Library)** - <LANGUAGE> library for the <PRODUCT NAME>.
-* **[Hookup Guide](https://learn.sparkfun.com/tutorials/lsm303c-6dof-hookup-guide?_ga=1.193731876.863167751.1453149924)** - Basic hookup guide for the <PRODUCT NAME>.
+* **[Library](https://github.com/sparkfun/SparkFun_LSM303C_6_DOF_IMU_Breakout_Arduino_Library)** - <LANGUAGE> library for the LSM303C.
+* **[Hookup Guide](https://learn.sparkfun.com/tutorials/lsm303c-6dof-hookup-guide?_ga=1.193731876.863167751.1453149924)** - Basic hookup guide for the LSM303C.
 * **[SparkFun Fritzing repo](https://github.com/sparkfun/Fritzing_Parts)** - Fritzing diagrams for SparkFun products.
 * **[SparkFun 3D Model repo](https://github.com/sparkfun/3D_Models)** - 3D models of SparkFun products. 
 * **[SparkFun Graphical Datasheets](https://github.com/sparkfun/Graphical_Datasheets)** -Graphical Datasheets for various SparkFun products
