@@ -15,6 +15,14 @@ Repository Contents
 * **/Libraries** - All Arduino libraries and board examples
 * **/Production** - Test bed files and production panel files
 
+Documentation
+--------------
+* **[Library](https://github.com/sparkfun/SparkFun_LSM303C_6_DOF_IMU_Breakout_Arduino_Library)** - <LANGUAGE> library for the <PRODUCT NAME>.
+* **[Hookup Guide](https://learn.sparkfun.com/tutorials/lsm303c-6dof-hookup-guide?_ga=1.193731876.863167751.1453149924)** - Basic hookup guide for the <PRODUCT NAME>.
+* **[SparkFun Fritzing repo](https://github.com/sparkfun/Fritzing_Parts)** - Fritzing diagrams for SparkFun products.
+* **[SparkFun 3D Model repo](https://github.com/sparkfun/3D_Models)** - 3D models of SparkFun products. 
+* **[SparkFun Graphical Datasheets](https://github.com/sparkfun/Graphical_Datasheets)** -Graphical Datasheets for various SparkFun products
+
 Product Versions
 ----------------
 * [BOB-13303](https://www.sparkfun.com/products/13303)- LSM303C based 6 DOF IMU beakout board
@@ -25,7 +33,15 @@ Version History
 
 License Information
 -------------------
-The hardware is released under [Creative Commons ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).
-The code is beerware; if you see me (or any other SparkFun employee) at the local, and you've found our code helpful, please buy us a round!
+
+This product is _**open source**_! 
+
+Please review the LICENSE.md file for license information. 
+
+If you have any questions or concerns on licensing, please contact techsupport@sparkfun.com.
 
 Distributed as-is; no warranty is given.
+
+- Your friends at SparkFun.
+
+_<COLLABORATION CREDIT>_
