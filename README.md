@@ -1,7 +1,7 @@
 SparkFun LSM303C 6 DOF IMU Breakout
 ========================================
 
-[![LSM303C Breakout](https://cdn.sparkfun.com/r/188-188/assets/parts/1/0/5/6/4/13303-01.jpg)](https://www.sparkfun.com/products/13303)
+[![LSM303C Breakout](https://cdn.sparkfun.com/assets/parts/1/0/5/6/4/13303-01.jpg)](https://www.sparkfun.com/products/13303)
 
 *[SparkFun LSM303C 6 DOF IMU Breakout (BOB-13303)](https://www.sparkfun.com/products/13303)*
 
