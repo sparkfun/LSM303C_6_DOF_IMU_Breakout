@@ -30,7 +30,7 @@ Product Versions
 
 Version History
 ---------------
-* [v10](https://github.com/sparkfun/LSM303C_6_DOF_IMU_Breakout) First (hopefully ony) product release.  v10 is SFE code for version 1.0
+* [v10](https://github.com/sparkfun/LSM303C_6_DOF_IMU_Breakout/releases/tag/v1.0) First (hopefully ony) product release.  v10 is SFE code for version 1.0
 
 License Information
 -------------------
